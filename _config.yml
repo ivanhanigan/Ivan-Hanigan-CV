@@ -20,5 +20,5 @@ author:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
 
 # url: https://ivanhanigan.github.io
-# baseurl: /random-website
+baseurl: /Ivan-Hanigan-CV
 

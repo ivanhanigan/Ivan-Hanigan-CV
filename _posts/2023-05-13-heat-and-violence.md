@@ -3,6 +3,7 @@ name: heat-and-violence
 layout: post
 title: Heat and violence
 date: 2023-05-13
+category: heat
 ---
 
 
