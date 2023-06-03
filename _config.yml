@@ -1,0 +1,24 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+exclude: ["README.md", "License.md", "ivan-hanigan-cv-dark.Rproj"]
+highlighter: rouge
+
+title: random-website
+author:
+  name: Ivan Hanigan
+  email: ivan.hanigan@gmail.com
+  github: ivanhanigan
+
+# this is just too confusing 
+  # kbroman says
+  # A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
+  # REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #
+  # CAUTION:
+  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
+
+# url: https://ivanhanigan.github.io
+# baseurl: /random-website
+
