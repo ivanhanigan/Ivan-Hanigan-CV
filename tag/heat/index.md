@@ -6,3 +6,4 @@ title: Posts tagged heat
 
 - [2023-05-13-heat-and-violence](/Ivan-Hanigan-CV/2023/05/13/heat-and-violence.html)
 - [2013-04-01-heat-mortality-morbidity](/Ivan-Hanigan-CV/2013/04/01/heat-mortality-morbidity.html)
+

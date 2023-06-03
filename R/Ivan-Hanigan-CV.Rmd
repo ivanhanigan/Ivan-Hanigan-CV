@@ -1,14 +1,19 @@
 ---
-name: about-me
-layout: default
-title: Ivan C. Hanigan PhD
+output:
+  word_document: default
+  html_document: default
 ---
 
-- Email: ivan.hanigan@curtin.edu.au
-- ORCID: [http://orcid.org/0000-0002-6360-6793](http://orcid.org/0000-0002-6360-6793)
-- Google Scholar: [https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en](https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en)
 
-### Current Role
+
+
+# About me
+
+- Email: ivan.hanigan@curtin.edu.au
+
+- ORCID: [http://orcid.org/0000-0002-6360-6793](http://orcid.org/0000-0002-6360-6793)
+
+- Google Scholar: [https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en](https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en)
 
 Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment
 
@@ -24,19 +29,17 @@ Main Responsibilities: Research leadership, teaching, unit coordination, analysi
 
 Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted Citation Impact of 1.9.
 
-### Education
-
 *Australian National University*
 
 - PhD 2009-2016 (part-time). Title Using Reproducible Research Pipelines to Help Disentangle Health Effects of Environmental Change from Social Factors, http://hdl.handle.net/1885/108735. ANU (NCEPH) and CSIRO. 
 
     - Panel: Colin Butler, Philip Kokic, Rohan Nelson, Steven McEachern, Kathryn Glass. 
+
     - Passed with no corrections. 
+
     - Conferred on 04/10/2016.
 
 - 1998-2005: Bachelor of Arts in Geography and Human Ecology, First Class Honours in Environmental Health, School of Resources, Environment and Society, ANU.
-
-### Employment
 
 *Curtin University 2022-present*
 
@@ -45,7 +48,9 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 *The University of Sydney*
 
 - 2018-2021. Data Scientist (Epidemiology), University Centre of Rural Health. School of Public Health
+
 - 2017-2019. Part time Post-doc Research Fellow, Centre for Air pollution and health Research.
+
 - 2015-2016. Data Manager/Analyst, University Centre of Rural Health.
 
 *The University of Canberra*
@@ -59,9 +64,56 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 *The Australian National University*
 
 - 2013-2015. Data Portal Project Manager Long-Term Ecosystem Research Network. 
+
 - 2008-2013. Centre Data Manager. National Centre for Epidemiology and Population Health (NCEPH). 
+
 - 2001-2005, 2007-2009. Data Analyst and Data Manager, Climate and Health (NCEPH).
 
-
-
 *Older:* CSIRO Adaptive Primary Industries 2013; James Cook University 2013-2015; The University of Tasmania 2008-2011; and Charles Darwin University 2006-2007. 
+
+
+
+
+# Professional training and qualifications
+
+- Mentoring and training in System Dynamics Collaborative Conceptual Modelling (CCM), 2021, Professor Barry Newell and Katrina Proust, ANU.
+
+- System Dynamics for Health Sciences, 2020, the University of the Witwatersrand, Johannesburg, EdX.
+
+- I was competitively selected to complete 2017 University of Canberra Early Career Academic Research Development Program (ECARD) program for example media training and project management.
+
+- Statistical software development training at rOpenSci unconference in Australia, 2016. Brisbane.
+
+- Satellite Data for Air Pollution Exposure Assessment, CAR, 2015, Woolcock Institute.
+
+- Secure Unified Research Environment Certification, 2015. Sax Institute, Sydney NSW.
+
+- Optimize and Tune Your PostgreSQL Database Server Performance, 2013. EnterpriseDB.
+
+- Computing for Data Analysis, 2012. Johns Hopkins Bloomberg School of Public Health, Coursera.
+
+- Bayesian Hierarchical Modelling of Spatial and Temporal Data, 2011, CSIRO/ANU, Canberra, ACT.
+
+- Statistical Data and Metadata eXchange (SDMX) standard and tools. 2010, ABS.
+
+- Australian Weather and Society Integrated Studies Workshop. February 2007. Emergency Management Australia, Mount Macedon, VIC.
+
+- Spatial Analysis in Environmental and Social Epidemiology. 2005. ANU, Canberra.
+
+- Air Pollution Exposure: measurement, modelling and assessment. 2004, ANU, Canberra.
+
+- Climate Change and Health: Research Methods and Policy Issues. 2003, ANU, Canberra.
+
+
+
+
+# Programming expertise
+
+- I have extensive skills with the R language for statistical computing and graphics.
+
+- I contribute to several R packages and open source code project sites via my GitHub pages (https://github.com/ivanhanigan).
+
+- I also have experience with Statistical tools in Splus, Stata, Kepler-project and SPSS.
+
+- I am adept at generic programming and configuring Postgres, PostGIS, Geoserver, QGIS, ArcGIS, Oracle-XE, Linux (Ubuntu, Centos, RHEL).
+
