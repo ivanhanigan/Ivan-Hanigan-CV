@@ -8,8 +8,8 @@ name: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <!-- <h2><a href="https://ivanhanigan.github.io/Ivan-Hanigan-CV{{ post.url }}">{{  post.title }}</a></h2> -->
-      <h2><a href="{{ post.url }}">{{  post.title }}</a></h2>
+      <h2><a href="https://ivanhanigan.github.io/Ivan-Hanigan-CV{{ post.url }}">{{  post.title }}</a></h2> 
+      <!-- <h2><a href="{{ post.url }}">{{  post.title }}</a></h2> -->
       {{ post.excerpt }}
       {{ post.date | date_to_string }}
 <P></P>
