@@ -8,7 +8,7 @@ title: Ivan C. Hanigan PhD
 - ORCID: [http://orcid.org/0000-0002-6360-6793](http://orcid.org/0000-0002-6360-6793)
 - Google Scholar: [https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en](https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en)
 
-### About me
+### On this page
 
 1. [Current role](#current-role)
 1. [Education](#education)
@@ -22,12 +22,14 @@ Senior Lecturer in Climate Change and Health
 
 Curtin University School of Population Health
 
-Affiliate of the NHMRC Centre for Air pollution, energy and health Research (CAR).
+Chief Investigator of the HEAL (Healthy Environments And Lives) National Research Network, which receives funding from the National Health and Medical Research Council Special Initiative in Human Health and Environmental Change (NHMRC Grant No. 2008937).
+
+Associate investigator of the NHMRC Centre for Air pollution, energy and health Research (CAR).
 
 Main Responsibilities: Research leadership, teaching, unit coordination, analysis and data management oversight, science 
 translation, engagement with general audience, research dissemination.
 
-Citations: I currently have a Scopus h-index of 23 and a SciVal Field-Weighted Citation Impact of 1.9.
+Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted Citation Impact of 1.9.
 
 ### <a name="education"></a>Education
 
