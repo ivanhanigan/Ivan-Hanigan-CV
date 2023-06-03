@@ -3,7 +3,7 @@ name: heat-and-violence
 layout: post
 title: Heat and violence
 date: 2023-05-13
-category: heat
+tags: heat
 ---
 
 
@@ -13,4 +13,4 @@ Just heard the great news the excellent PhD student Heather Stevens published an
 
 Journal: International Journal of Urban Sciences (RJUS)
 
-The DOI of our paper is not ready yet (as of 13th May) but once our article has published online, it will be available at the following permanent link: [https://doi.org/10.1080/12265934.2023.2209544](https://doi.org/10.1080/12265934.2023.2209544).
+The DOI of our paper is: [https://doi.org/10.1080/12265934.2023.2209544](https://doi.org/10.1080/12265934.2023.2209544).

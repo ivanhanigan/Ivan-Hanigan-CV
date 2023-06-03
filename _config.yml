@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-exclude: ["README.md", "License.md", "ivan-hanigan-cv-dark.Rproj"]
+exclude: ["README.md", "License.md", "ivan-hanigan-cv.Rproj"]
 highlighter: rouge
 
-title: random-website
+title: Ivan-Hanigan-CV
 author:
   name: Ivan Hanigan
   email: ivan.hanigan@gmail.com
