@@ -16,7 +16,7 @@ title: Ivan C. Hanigan PhD
 
 ### <a name="current-role"></a>Current Role
 
-Director, WHO Collaborating Centre for Environmental Health Impact Assessment
+Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment
 
 Senior Lecturer in Climate Change and Health
 
