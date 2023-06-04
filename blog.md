@@ -4,14 +4,55 @@ name: Blog
 ---
 
 <h2 class="widget-title">Entries by Tags</h2>
+
+Jump to [Latest Posts](#latest-posts)
+
+In addition to tagging each research output using the type of enivoronmental risk facctor, the image below shows how my research outputs have been tagged using a comprehensive framework for Climate Change and Health Impact Assessment:
+
+![assets/CCHP_framework.png](assets/CCHP_framework.png)
+
+Source: Tony McMichael et al (including myself).
+
 <ul>
-{% for tag in site.tags %}
+<!-- my first attempt -->
+<!--{% for tag in  site.tags   %}
 <li><a href="/Ivan-Hanigan-CV/tag/{{tag | first}}">{{tag | first}} ({{tag | last | size }})</a></li>
 {% endfor %}
 <div class="clear"></div>
 </ul>
+-->
+<!-- Kudos to https://stackoverflow.com/a/54637489 -->
+<!-- // create empty array -->
+{% assign tags = '' | split: '' %}
 
-<h1>Latest Posts</h1>
+<!-- // iterate through tags, get tag name and make into an array, concat arrays -->
+{% for tag in site.tags %}
+    {% assign tagName = tag | first | split: ' ' %}
+    {% assign tags = tags | concat: tagName %}
+{% endfor %}
+
+<!-- // sort tags -->
+{% assign tags = tags | sort %}
+    
+<!-- // create list of tags and number of posts with that tag -->
+<section>
+    <ul>
+        {% for tag in tags %}
+            {% assign postCount = site.tags[tag] | size %}
+            <li>
+<!--                <a href="#{{ tag | cgi_escape }}" class="tag">
+                    {{ tag }}
+                    <span>({{ postCount }})</span>
+                </a> -->
+                <a href="/Ivan-Hanigan-CV/tag/{{ tag }}">{{ tag }} ({{ postCount }})</a>
+            </li>
+        {% endfor %}
+    </ul>
+ </section> 
+
+
+
+<h1> <a name="latest-posts"></a>Latest Posts</h1>
 
 
 <ul>
@@ -22,11 +63,15 @@ name: Blog
       {{ post.excerpt }} 
       <a href="/Ivan-Hanigan-CV{{ post.url }}">Read more</a>
       <p></p>
-      tag: <a href="/Ivan-Hanigan-CV/tag/{{ post.tags }}">{{ post.tags }}</a>
+      tags: <a href="/Ivan-Hanigan-CV/tag/{{ post.tags | first }}">{{ post.tags | first }}</a>
+      <a href="/Ivan-Hanigan-CV/tag/{{ post.tags | last }}">{{ post.tags | last }}</a>
+
+<!--      tag: <a href="/Ivan-Hanigan-CV/tag/{{ post.tags }}">{{ post.tags }}</a> -->
 <P></P>
     </li>
   {% endfor %}
   
 
 </ul>
+
 
