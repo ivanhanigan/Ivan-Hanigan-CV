@@ -1,30 +1,4 @@
-
-
-
- 
-
-Hanigan, I. C., Schirmer, J., & Niyonsenga, T. (2018). Drought and Distress in Southeastern Australia. EcoHealth. [https://doi.org/10.1007/s10393-018-1339-0](https://doi.org/10.1007/s10393-018-1339-0)
-
-Hutchinson's index used in a cross-sectional New finding of association in younger women. Coherence regarding previous lack of association in older women. No association in men. This pattern did not differ by farming status.
-
-
-
-
- 
-
-4. Nicholls, N., Butler, C. D., & Hanigan, I. (2006). Inter-annual rainfall variations and suicide in New South Wales, Australia, 1964-2001. International Journal of Biometeorology, 50(3), 139–143. https://doi.org/10.1007/s00484-005-0002-y
-
-Annual rainfall and suicide between 1964-2001. Drier years were associated with increased suicide rates, but we were unable to stratify by age, sex or rural/remote regions.
-
- 
-
-5. Powers, J. R., Dobson, A. J., Berry, H. L., Graves, A. M., Hanigan, I. C., and Loxton, D. (2015). Lack of association between drought and mental health in a cohort of 45-61 year old rural Australian women. ANZJPH. http://dx.doi.org/doi:10.1111/1753-6405.12369
-
-Hutchinson's index used at each survey follow up time in longitudinal study of women's health. Drought was NOT associated with depression in these older women.
-
- 
-
-6. O'Brien, L. V., Berry, H. L., Coleman, C., and Hanigan, I. C. (2014). Drought as a mental health exposure. Environmental Research,  http://dx.doi.org/doi:10.1016/j.envres.2014.03.014
+O'Brien, L. V., Berry, H. L., Coleman, C., and Hanigan, I. C. (2014). Drought as a mental health exposure. Environmental Research,  [http://dx.doi.org/doi:10.1016/j.envres.2014.03.014](http://dx.doi.org/doi:10.1016/j.envres.2014.03.014)
 
 Variations of Hutchinson's index to capture lagged effects, or double/triple whammy effects of cycling in and out of drought. Drought was associated with distress in rural but not urban people.
 

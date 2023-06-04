@@ -7,11 +7,11 @@ name: Blog
 
 Jump to [Latest Posts](#latest-posts)
 
-In addition to tagging each research output using the type of enivoronmental risk facctor, the image below shows how my research outputs have been tagged using a comprehensive framework for Climate Change and Health Impact Assessment:
+The image below shows how my research outputs have been tagged using a comprehensive framework for Climate Change and Health Impact Assessment. I also tag each research output using the type of environmental risk factor (e.g. drought, bushfires, heat etc).
 
 ![assets/CCHP_framework.png](assets/CCHP_framework.png)
 
-Source: Tony McMichael et al (including myself).
+Source: McMichael, A., Berry, H., Butler, C., Capon, A., Dear, K., **Hanigan, I.C.**, Lucas, R. & Strazdins, L. (2008). Assessing the scale and nature of health vulnerability to climate change. Technical report for WHO global consultation on ‘Guiding research to improve health protection from climate change’. World Health Organisation, Geneva. (D. Campbell-Lendrum & R. Bertollini, Eds.).
 
 <ul>
 <!-- my first attempt -->
