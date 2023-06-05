@@ -8,7 +8,7 @@ title: Ivan C. Hanigan PhD
 - ORCID: [http://orcid.org/0000-0002-6360-6793](http://orcid.org/0000-0002-6360-6793)
 - Google Scholar: [https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en](https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en)
 
-### Current Role
+## Current Role
 
 Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment
 
@@ -24,7 +24,7 @@ Main Responsibilities: Research leadership, teaching, unit coordination, analysi
 
 Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted Citation Impact of 1.9.
 
-### Education
+## Education
 
 *Australian National University*
 
@@ -36,7 +36,7 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 - 1998-2005: Bachelor of Arts in Geography and Human Ecology, First Class Honours in Environmental Health, School of Resources, Environment and Society, ANU.
 
-### Employment
+## Employment
 
 *Curtin University 2022-present*
 

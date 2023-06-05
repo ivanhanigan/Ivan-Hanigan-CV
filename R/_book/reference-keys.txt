@@ -1,3 +1,14 @@
-about-me
+education-and-employment
+current-role
+education
+employment
 professional-training-and-qualifications
+papers
+reports
+research-grants
+teaching-and-learning
+teaching
+higher-degree-research
+phd-supervision
+other-teaching-activities
 programming-expertise

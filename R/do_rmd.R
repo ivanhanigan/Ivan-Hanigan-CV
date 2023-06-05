@@ -1,8 +1,14 @@
 library(bookdown)
 txt <- list()
-txt[['About me']] <- read.table('about-me.md', sep = '\n')
-txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n')
-txt[['Programming expertise']] <- read.table('programming-expertise.md', sep = '\n')
+txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
+txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n', comment.char = "")
+txt[['Papers']] <- read.table('papers.md', sep = '\n', comment.char = "")
+txt[['Reports']] <- read.table('reports.md', sep = '\n', comment.char = "")
+txt[['Research grants']] <- read.table('research-grants.md', sep = '\n', comment.char = "")
+txt[['Teaching and learning']] <- read.table('teaching-and-supervision.md', sep = '\n', comment.char = "")
+txt[['Conference presentations']] <- read.table('conference-presentations.md', sep = '\n', comment.char = "")
+txt[['Programming expertise']] <- read.table('programming-expertise.md', sep = '\n',comment.char = "")
+
 names(txt)
 
 for(i in 1:length(txt)){
