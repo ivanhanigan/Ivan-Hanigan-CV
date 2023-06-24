@@ -3,7 +3,7 @@ layout: default
 title: Research grants
 ---
 
-
+1. Corbett, Hertzog, Hanigan, ARDC's National Data Assets Community Connect program, Where there's Smoke - Building Air Health Data Bridges (PS022 - AirHealth). $40,000.
 1. Hanigan, Data and model blending for the protoype AQFx smoke forecasting system, CSIRO, 6 months, $60,000
 2. Hanigan, Jalaludin, Co-design and capacity building workshop in Sarawak, Malaysia, CAR, $20,000.00 
 3. Gebremedhin A, Hanigan, I, Universal Thermal Climate Index and Risk of Pregnancy Complications in Western Australia: A retrospective time-to-event cohort study, Curtin School of Population Health, , $10,000
