@@ -20,6 +20,11 @@ I offer teaching and supervision for undergraduate and postgraduate students. I 
 - 2023 (Started): I co-supervise Albaraa Milibari (Curtin University) 
 - 2022 (Completed): Heather Stevens (Macquarie University). PhD thesis title was "Associations between temperature and interpersonal violence". PhD thesis is now available via [https://doi.org/10.25949/23282423.v1](https://doi.org/10.25949/23282423.v1)
 
+#### Masters
+
+- 2023 (Completed). Alec Cobbold, Supervisory panel: Christopher Rissel, Ivan Hanigan, Melanie Crane. Thesis title: Health behaviours and environmental perceptions during the COVID-19 pandemic.
+
+
 ### Postdoctoral research fellowships
 
 - Primary Supervision of CSIRO/Data61 data science fellowship (Dr Imaina Widagdo, a student in this postdoctoral professional development program for Department of Health Staff: June and July 2017.
