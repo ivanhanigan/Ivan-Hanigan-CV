@@ -16,7 +16,7 @@ I offer teaching and supervision for undergraduate and postgraduate students. I 
 ## Higher Degree Research
 
 ### PhD Supervision
-
+- 2023 (Advertised): Evidence-based tools for climate change health impact assessments that enable low- and middle-income countries meet the sustainable development agenda. The 2024 Research Training Program (RTP) Scholarships at Curtin University (Read more: https://scholarships.curtin.edu.au/Scholarship/?id=6734).
 - 2023 (Started): I co-supervise Albaraa Milibari (Curtin University) 
 - 2022 (Completed): Heather Stevens (Macquarie University). PhD thesis title was "Associations between temperature and interpersonal violence". PhD thesis is now available via [https://doi.org/10.25949/23282423.v1](https://doi.org/10.25949/23282423.v1)
 
