@@ -3,4 +3,5 @@ layout: default
 title: International collaborations
 ---
 
-- “International Drought and Health” collaboration with world experts Assistant Professor Jesse Berman (University of Minnesota) and Professor Jesse Bell (University of Nebraska). 
+- Collaborations with Professor Stefan Reis (German DLR Projektträger): Focus on environmental health under the triple existential crises around climate change, pollution and biodiversity
+
