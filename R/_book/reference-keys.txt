@@ -2,15 +2,5 @@ education-and-employment
 current-role
 education
 employment
-professional-training-and-qualifications
-papers
-reports
-research-grants
-teaching-and-learning
-teaching
-higher-degree-research
-phd-supervision
-postdoctoral-research-fellowships
-other-teaching-activities
-conference-presentations
-programming-expertise
+selected-publications
+grants-summary

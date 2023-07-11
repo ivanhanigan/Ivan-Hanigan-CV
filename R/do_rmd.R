@@ -1,5 +1,11 @@
 library(bookdown)
+library(data.table)
+worddoc <- T
+
 txt <- list()
+cv <- F
+short <- T
+if(cv == TRUE){
 txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
 txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n', comment.char = "")
 txt[['Papers']] <- read.table('papers.md', sep = '\n', comment.char = "")
@@ -8,6 +14,12 @@ txt[['Research grants']] <- read.table('research-grants.md', sep = '\n', comment
 txt[['Teaching and learning']] <- read.table('teaching-and-supervision.md', sep = '\n', comment.char = "")
 txt[['Conference presentations']] <- read.table('conference-presentations.md', sep = '\n', comment.char = "")
 txt[['Programming expertise']] <- read.table('programming-expertise.md', sep = '\n',comment.char = "")
+}
+if(short){
+  txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
+  txt[['Selected publications']] <- read.table('papers-selected.md', sep = '\n', comment.char = "")
+  txt[['Grants summary']] <- read.table('research-grants-selected.md', sep = '\n', comment.char = "")
+}
 
 names(txt)
 
@@ -33,7 +45,7 @@ for(i in 1:length(txt)){
 #  txt[[1]][1:10,]
 }
 
-library(data.table)
+
 txt1 <- rbindlist(txt)
 
 sink("R/Ivan-Hanigan-CV.Rmd")
@@ -44,6 +56,7 @@ output:
 ---
 ")
 sink()
+
 write.table(txt1, file = "R/Ivan-Hanigan-CV.Rmd", sep = "\n", row.names = F, 
             quote = F,
             col.names = F,
@@ -51,7 +64,6 @@ write.table(txt1, file = "R/Ivan-Hanigan-CV.Rmd", sep = "\n", row.names = F,
 
 setwd("R")
 dir()
-worddoc <- T
 if(worddoc) render_book("Ivan-Hanigan-CV.Rmd", "word_document2")
 setwd("..")
 getwd()
