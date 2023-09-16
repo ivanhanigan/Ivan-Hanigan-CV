@@ -17,7 +17,7 @@ output:
 
 ## Current Role
 
-Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment
+Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment ([https://research.curtin.edu.au/whocc-cchia/](https://research.curtin.edu.au/whocc-cchia/))
 
 Senior Lecturer in Climate Change and Health
 
@@ -80,34 +80,362 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 
 
+# Professional training and qualifications
 
-# Selected publications
+- Mentoring and training in System Dynamics Collaborative Conceptual Modelling (CCM), 2021, Professor Barry Newell and Katrina Proust, ANU.
 
-Dr Hanigan has published 56 peer-reviewed journal papers and was the lead author on 14 papers and senior coordinating author on 2. His Scopus h-index is 24 and SciVal Field-Weighted Citation Impact for 2009-2018 is 1.59. The FWCI is calculated by SciVal (http://www.scival.com) and this score indicates that the papers are cited more times than the average number of citations received by all other similar publications indexed in the Scopus database. His top 5 publications over the last five years include: 
+- System Dynamics for Health Sciences, 2020, the University of the Witwatersrand, Johannesburg, EdX.
 
-1.    Hanigan IC, Williamson GJ, et al. (2017). Blending Multiple Nitrogen Dioxide Data Sources for Neighborhood Estimates of Long-Term Exposure for Health Research. Environ Sci Technol, 51, 21, 12473-80 This paper uses an advanced Bayesian spatial statistical approach and was published in one of the top exposure science journals in the world.  
+- I was competitively selected to complete 2017 University of Canberra Early Career Academic Research Development Program (ECARD) program for example media training and project management.
 
-  
+- Statistical software development training at rOpenSci unconference in Australia, 2016. Brisbane.
 
-1.    Hanigan, I. C., Rolfe, M. I., et al. (2019). All-cause mortality and long-term exposure to low level air pollution in the ‘45 and up study’ cohort, Sydney, Australia, 2006–2015. Environ Int, 126, 762–770.  This is the only published Australian study to date showing the association of all-cause mortality in the general population with long-term exposure to PM2.5 and NO2.  
+- Satellite Data for Air Pollution Exposure Assessment, CAR, 2015, Woolcock Institute.
 
-  
+- Secure Unified Research Environment Certification, 2015. Sax Institute, Sydney NSW.
 
-1.    Zhang Y, Beggs PJ, et al (incl. Hanigan IC). The MJA–Lancet Countdown on health and climate change: Australian policy inaction threatens lives. Med J Aust 2018;209(11):1.e1- 1.e21. The MJA–Lancet Countdown on health and climate change in Australia has informed public debate about climate change and health   
+- Optimize and Tune Your PostgreSQL Database Server Performance, 2013. EnterpriseDB.
 
-  
+- Computing for Data Analysis, 2012. Johns Hopkins Bloomberg School of Public Health, Coursera.
 
-1.    Beggs PJ, Zhang Y, et al (incl. Hanigan IC). The 2019 report of the MJA-Lancet Countdown on health and climate change: a turbulent year with mixed progress. Med J Aust (accepted 26 Sept). The MJA–Lancet Countdown on health and climate change in Australia has informed public debate about climate change and health   
+- Bayesian Hierarchical Modelling of Spatial and Temporal Data, 2011, CSIRO/ANU, Canberra, ACT.
 
-  
+- Statistical Data and Metadata eXchange (SDMX) standard and tools. 2010, ABS.
 
-1.    Hanigan, IC, and Chaston TB. (2022) ‘Climate Change, Drought and Rural Suicide in New South Wales, Australia: Future Impact Scenario Projections to 2099’. International Journal of Environmental Research and Public Health 19, no. 13:7855. https://doi.org/10.3390/ijerph19137855. Ivan published the world’s first climate change impact assessment of suicide mortality associated with future droughts.      
+- Australian Weather and Society Integrated Studies Workshop. February 2007. Emergency Management Australia, Mount Macedon, VIC.
+
+- Spatial Analysis in Environmental and Social Epidemiology. 2005. ANU, Canberra.
+
+- Air Pollution Exposure: measurement, modelling and assessment. 2004, ANU, Canberra.
+
+- Climate Change and Health: Research Methods and Policy Issues. 2003, ANU, Canberra.
 
 
 
 
+# Awards
 
-# Grants summary
+- Joint winner with The ‘MJA-Lancet Countdown on Health Climate Change team’ of the Public Health Association of Australia (PHAA) Tony McMichael Award September 2023. The award is recognition of significant, discernible contributions in the combined domains of public health and ecology or environmental health.
 
-Over the past 5 years Ivan has attracted $19.8M funding from 20 grants across 6 funding bodies including NHMRC, ARC, ARDC, CSIRO and government departments. These include 10 grants as PI. In particular, he holds a substantial grant for data intensive environmental health impact assessments worth approx. $300K.     
+- New Researcher Best Abstract Award (Asia, Africa, Latin America/Caribbean and Oceania), 2017 conference of the International Society of Environmental Epidemiology (ISEE), Sydney, Australia, 24-28 September. 
+
+- Honourable mention by NatStats 2013 Conference Awards judging panel (Brisbane Aust. March 2013):
+
+- November 2012 Bhati Family India  ANU Researcher Travel Prize.
+
+- October 2012 Runner Up, Australian National Data Service eResearch tools for the National Cloud competition.
+
+
+
+
+# Papers
+
+1. Stevens H.R., Graham P.L., Hanigan I.C. Beggs P.J., (Accepted) No retreat from the heat; Temperature-related risk of violent assault is increased by being inside. International Journal of Urban Sciences [https://doi.org/10.1080/12265934.2023.2209544](https://doi.org/10.1080/12265934.2023.2209544)
+
+1.	Jegasothy, E. Hanigan, I.C.,  Van Buskirk J., Morgan G.G., Jalaludin B., Johnston F.H., Guo Y., Broome, R.A. (2022). Acute health effects of bushfire smoke on mortality in Sydney, Australia, Environment International, doi: https://doi.org/10.1016/j.envint.2022.107684. 
+
+1.	Beggs, Paul J, Zhang, Ying, McGushin, Alice, Trueck, Stefan, Linnenluecke, Martina K, Bambrick, Hilary, Capon, Anthony G, Vardoulakis, Sotiris, Green, Donna, Malik, Arunima, Jay, Ollie, Heenan, Maddie, Hanigan, Ivan C,  Friel, Sharon, Stevenson, Mark, Johnston, Fay H, McMichael, Celia, Charlson, Fiona, Woodward, Alistair J and Romanello, Marina B. (In Press) The 2022 report of the MJA-Lancet Countdown on health and climate change: Australia unprepared and paying the price. MJA.
+
+1.	Hanigan, Ivan C., and Timothy B. Chaston. ‘Climate Change, Drought and Rural Suicide in New South Wales, Australia: Future Impact Scenario Projections to 2099’. International Journal of Environmental Research and Public Health 19, no. 13 (2022): 7855. https://doi.org/10.3390/ijerph19137855.
+
+1.	Chaston, T. B., Broome, R. A., Cooper, N., Duck, G., Geromboux, C., Guo, Y., Ji, F., Perkins-Kirkpatrick, S., Zhang, Y., Dissanayake, G. S., Morgan, G. G., & Hanigan, I. C. (2022). Mortality burden of heatwaves in Sydney, Australia is exacerbated by the urban heat island and climate change: Can tree cover help mitigate the health impacts? Atmosphere, 13(5). https://doi.org/10.3390/atmos13050714
+
+1.	Standen, Jeffrey C., Jessica Spencer, Grace W. Lee, Joe Van Buskirk, Veronica Matthews, Ivan Hanigan, Sinead Boylan, Edward Jegasothy, Matilde Breth-Petersen, and Geoffrey G. Morgan. ‘Aboriginal Population and Climate Change in Australia: Implications for Health and Adaptation Planning’. International Journal of Environmental Research and Public Health 19, no. 12 (2022): 7502. https://doi.org/10.3390/ijerph19127502
+
+1.	Sadeghi, M, Chaston, T, Hanigan, I, de Dear, R, Santamouris, M, Jalaludin, B, Morgan, G. (2022) The health benefits of greening strategies to cool urban environments–A heat health impact method. Building and Environment 207, 108546
+
+1.	Beggs, Zhang, McGushin, Trueck, Linnenluecke, Bambrick, Berry, Jay, Rychetnik, Hanigan, Morgan, Guo, Malik, Stevenson, Green, Johnston, McMichael, Hamilton, Capon, (2021) “The 2021 report of the MJA–Lancet Countdown on health and climate change: Australia increasingly out on a limb,” Med. J. Aust., vol. 215, no. 9, pp. 390-392.e22, 2021.
+
+1.	Guo, Y.L., Ampon, R.D., Hanigan, I.C., Knibbs, L.D., Geromboux, C., Su, T., Negishi, K., Poulos, L., Morgan, G.G., Marks, G.B., Jalaludin, B. (2021). Relationship between life-time exposure to ambient fine particulate matter and carotid artery intima-media thickness in Australian children aged 11–12 years,” Environ. Pollut., vol. 291, no. April, p. 118072.
+
+1.	Morawska, L., Zhu, T., Liu, N., Amouei Torkmahalleh, M., de Fatima Andrade, M., Barratt, B., Broomandi, P., Buonanno, G. , Belalcazar Ceron, L.C., Chen, J., Cheng, Y., Evans, G., Gavidia, M., Guo, H., Hanigan, I.C., Hu, M., Jeong, C.H., Kelly, F, Gallardo, L., Kumar, P., Lyu, X., Mullins, B.J., Nordstrøm, C., Pereira, G., Querol, X., Rojas Roa, N.Y., Russell, A., Thompson, H., Wang, H., Wang, L., Wang, T., Wierzbicka, A., Xue, T., Ye, C.. The state of science on severe air pollution episodes: quantitative and qualitative analysis. Environment International (accepted 22/06/2021).
+
+1.	Howse, E., Crane, M., Hanigan I.C., Gunn, L., Crosland, P., Ding, D., Hensher, M., Rychetnik, L. (2021). Air pollution and the noncommunicable disease prevention agenda: opportunities for public health and environmental science. Environmental Research Letters. 2021. https://iopscience.iop.org/article/10.1088/1748-9326/abfba0 
+
+1.	Hanigan, I.C., Dear, K. B. G., Woodward, A. (2021). Increased ratio of summer to winter deaths due to climate warming in Australia, 1968–2018. Australian & New Zealand Journal of Public Health. https://doi.org/10.1111/1753-6405.13107 
+
+1.	Hanigan I.C., Broome RA, Chaston TB, Cope M, Dennekamp M, Heyworth JS, Heathcote K, Horsley JA, Jalaludin B, Jegasothy E, Johnston FH, Knibbs LD, Pereira G, Vardoulakis S, Vander Hoorn S, Morgan GG. (2021). Avoidable Mortality Attributable to Anthropogenic Fine Particulate Matter (PM2.5) in Australia. International Journal of Environmental Research and Public Health. 18(1):254. https://doi.org/10.3390/ijerph18010254 
+
+1.	Aragnou E, Watt S, Nguyen Duc H, Cheeseman C, Riley M, Leys J, White S, Salter D, Azzi M, Tzu-Chi Chang L, Morgan G, Hanigan I.C. (2021). Dust Transport from Inland Australia and Its Impact on Air Quality and Health on the Eastern Coast of Australia during the February 2019 Dust Storm. Atmosphere. 12(2):141. https://doi.org/10.3390/atmos12020141   
+
+1.	Zhang, Y., Beggs, P.B., McGushin, A., Bambrick, H., Trück, S., Hanigan, I.C., Morgan, G.G., Berry, H.L., Linnenluecke, M.K., Johnston, F.H., Capon, A.G., Watts, N. (2020). The 2020 special report of the MJA-Lancet Countdown on health and climate change: lessons learnt from Australia’s ‘Black Summer’. Medical Journal of Australia. 213;11. https://doi.org/_Hlk60324904_Hlk6032490410.5694/mja2.50869
+
+1.	de Jesus A.L., Thompson H., Knibbs L.D., Hanigan I.C., De Torres L., Fisher G., Berko H., Morawska L. (2020). Two decades of trends in urban particulate matter concentrations across Australia. Environmental Research. https://doi.org/10.1016/j.envres.2020.110021
+
+1.	Larsen, A., Hanigan, I.C., Reich, BJ, Qin, Y, Cope, M, Morgan, GG, Rappold, AG. (2020). A deep learning approach to identify smoke plumes in satellite imagery in near-real time for health risk communication. Journal of Exposure Science & Environmental Epidemiology, https://doi.org/10.1038/s41370-020-0246-y 
+
+1.	Stevens H.R., Graham P.L., Beggs P.J., Hanigan I.C. (2020). In Cold Weather We Bark, But in Hot Weather We Bite: Patterns in Social Media Anger, Aggressive Behavior, and Temperature. Environment and Behavior. https://doi.org/10.1177/0013916520937455
+
+1.	Vardoulakis S., Jalaludin B., Morgan G.G., Hanigan I.C., F.H.  Johnston. (2020) Bushfire smoke: urgent need for a national health protection strategy. Medical Journal of Australia. 212 (8), 349-353. e1 https://dx.doi.org/10.5694/mja2.50511 
+
+1.	Salimi, F., Hanigan, I.C., Jalaludin, B., Guo, Y., Rolfe, M., Heyworth, J., Cowie, C., Knibbs, L.D., Cope, M., Marks, G., Morgan, G.G. (2019). Associations between long-term exposure to ambient air pollution and Parkinson’s disease: a cross-sectional study. Neurochemistry International. https://doi.org/10.1016/j.neuint.2019.104615 
+
+1.	Beggs, P.B., Zhang, Y., Bambrick, H., Berry, H.L., Linnenluecke, M.L., Trück, S., Bi, P., Boylan, S.M., Green, D., Guo, Y., Hanigan, I.C., Johnston, F.H., Madden, D.L., Malik, A., Morgan, G.G., Perkins-Kirkpatrick, S., Rychetnik, L., Stevenson, M., Watts, N., Capon, A. (2019). The 2019 report of the MJA-Lancet Countdown on health and climate change: a turbulent year with mixed progress. Medical Journal of Australia. https://dx.doi.org/10.5694/mja2.50405 
+
+1.	Butler, C. D. Hanigan, I. C. (Accepted 18 Jul 2019). Anthropogenic climate change and health in the Global South. (A State of the Art (SOA) review invited by the editors). The International Journal of Tuberculosis and Lung Disease. https://dx.doi.org/10.5588/ijtld.19.0267 
+
+1.	Hanigan, I. C., Chaston, T. B., Hinze, B., Dennekamp, M., Jalaludin, B., Kinfu, Y., Morgan, G. G. (2019). A statistical downscaling approach for generating high spatial resolution health risk maps: a case study of road noise and ischemic heart disease mortality in Melbourne, Australia. International Journal of Health Geographics, 18(1), 20. https://doi.org/10.1186/s12942-019-0184-x 
+
+1.	Edokpolo, B. Allaz-Barnett, N., Irwin, C., Issa, J., Curtis, P., Green, B., Hanigan, I.C. Dennekamp, M. (2019) Developing a Conceptual Framework for Environmental Health Tracking in Victoria, Australia. Int. J. Environ. Res. Public Health 2019, 16, https://dx.doi.org/10.3390/ijerph16101748 
+
+1.	Cowie, C., Garden, F., Jegasothy, E., Knibbs, L., Hanigan, I.C., Morley, D., Hansell, A., Hoek, G, Marks, G. (2019). Comparison of model estimates from an intra-city land use regression model with a national satellite-LUR and a regional Bayesian Maximum Entropy model, in estimating NO 2 for a birth cohort in Sydney, Australia. Environmental Research 174 (2019) 24–34. https://dx.doi.org/10.1016/j.envres.2019.03.068 
+
+1.	Hanigan, I.C., Rolfe, M. I., Knibbs, L. D., Salimi, F., Cowie, C. T., Heyworth, J., Marks G.B. Guo, Y., Cope, M., Bauman, A., Jalaludin, B., Morgan, G. G. (2019). All-cause mortality and long-term exposure to low level air pollution in the ‘45 and up study’ cohort, Sydney, Australia, 2006–2015. Environment International, 126(December 2018), 762–770. https://dx.doi.org/10.1016/j.envint.2019.02.044 
+
+1.	Hanigan IC, Morgan GG, Williamson GJ, Salimi F, Henderson SB, Turner MR, Bowman DMJS and Johnston FH. (2018) Extensible Database of Validated Biomass Smoke Events for Health Research. Fire (MDPI), https://dx.doi.org/10.3390/fire1030050 
+
+1.	Zhang Y, Beggs PJ, Bambrick H, Berry HL, Linnenluecke MK, Trueck S, Alders R, Bi P, Boylan SM, Green D, Guo Y, Hanigan I.C., Hanna EG, Malik A, Morgan GG, Stevenson M, Tong S, Watts N, Capon AG. The MJA–Lancet Countdown on health and climate change: Australian policy inaction threatens lives. The Medical Journal of Australia 2018;209(11):1.e1- 1.e21. https://dx.doi.org/10.5694/mja18.00789  
+
+1.	Knibbs L, van Donkelaar A, Martin R, Bechle M, Brauer M, Cohen D, Cowie C, Dirgawati M, Guo Y, Hanigan I.C., Johnston F, Marks G, Marshall J, Pereira G, Jalaludin B, Heyworth J, Morgan G, Barnett A. 2018, Satellite-Based Land-Use Regression for Continental-Scale Long-Term Ambient PM2.5 Exposure Assessment in Australia, Environmental Science & Technology, vol. 52, no. 21, pp. 12445--12455, https://dx.doi.org/10.1021/acs.est.8b02328 
+
+1.	Salimi F, Morgan G, Rolfe M, Samoli E, Cowie C, Hanigan I.C., Knibbs L, Cope M, Johnston F, Guo Y, Marks G, Heyworth J, Jalaludin B. Long-term Exposure to Low Concentrations of Air Pollutants and Hospitalisation for Respiratory Diseases: A Prospective Cohort Study in Australia. Environment International, 2018; 121:415-420. https://dx.doi.org/10.1016/j.envint.2018.08.050 
+
+1.	Hanigan I.C, Schirmer, J., Nyonsenga, T. (2018) Drought and Distress in Southeastern Australia. EcoHealth, https://dx.doi.org/10.1007/s10393-018-1339-0  
+
+1.	Hanigan, I.C., Cochrane, T., Davey, R. (2017). Impact of scale of aggregation on associations of cardiovascular hospitalization and socio-economic disadvantage. PLOS One  https://dx.doi.org/10.1371/journal.pone.0188161 
+
+1.	Hanigan, I.C., Williamson, GJ, Knibbs, LD, Horsley, J, Rolfe, MI, Cope, M, Barnett, AG, Cowie, CT, Heyworth, JS, Serre, ML, Jalaludin, B, Morgan, GG. (2017). Blending Multiple Nitrogen Dioxide Data Sources for Neighborhood Estimates of Long-Term Exposure for Health Research. Environmental Science & Technology, https://dx.doi.org/10.1021/acs.est.7b03035  
+
+1.	Yu, Y., Davey, R., Cochrane, T., Learnihan, V., Hanigan, I. C., and Bagheri, N. (2017). Neighborhood walkability and hospital treatment costs: A first assessment. Preventive Medicine, 99, 134–139. http://doi.org/10.1016/j.ypmed.2017.02.008 
+
+1.	Guru, S., Hanigan, I. C., Nguyen, H. A., Burns, E., Stein, J., Blanchard, W., Lindenmayer, D.  Clancy, T. (2016). Development of a cloud-based platform for reproducible science: A case study of an IUCN Red List of Ecosystems Assessment. Ecological Informatics https://dx.doi.org/10.1016/j.ecoinf.2016.08.003 
+
+1.	Powers, J. R., Dobson, A. J., Berry, H. L., Graves, A. M., Hanigan, I. C., and Loxton, D. (2015). Lack of association between drought and mental health in a cohort of 45-61 year old rural Australian women. Australian and New Zealand Journal of Public Health. 39(6):518-23.
+
+1.	Lindenmayer, D.B., Burns, E.L., Tennant, P., Dickman, C.R., Green, P.T., Keith, D., Metcalfe, D.J., Russell-smith, J., Wardle, G.M., Williams, D., Bossard, K., Delacey, C., Hanigan, I.C., Bull, C.M., Gillespie, G., Hobbs, R.J., Krebs, C.J., Likens, G.E., Porter, J., & Vardon, M. (2015). Contemplating the future : Acting now on long-term monitoring to answer 2050’s questions. Austral Ecology, 1–12. https://dx.doi.org/10.1111/aec.12207 
+
+1.	O’Brien, L. V., Berry, H. L., Coleman, C., and Hanigan, I. C. (2014). Drought as a mental health exposure. Environmental Research, 131: 181-187. https://dx.doi.org/10.1016/j.envres.2014.03.014 
+
+1.	Howden, M., Schroeter, S., Crimp, S., & Hanigan, I.C. (2014). The changing roles of science in managing Australian droughts: An agricultural perspective. Weather and Climate Extremes, 3, 80–89. https://dx.doi.org/10.1016/j.wace.2014.04.006 
+
+1.	Martin, K. L., Hanigan, I. C., Morgan, G. G., Henderson, S. B., and Johnston, F. H. (2013). Air pollution from bushfires and their association with hospital admissions in Sydney, Newcastle and Wollongong, Australia 1994-2007. Australian and New Zealand Journal of Public Health, 37(3), 238-243. https://dx.doi.org/10.1111/1753-6405.12065 
+
+1.	Wilson, L. A., Morgan, G., Hanigan, I. C., Johnston, F., Abu-Rayya, H., Broome, R., Gaskin, C., and Jalaludin, B. (2013). The impact of heat on mortality and morbidity in the Greater Metropolitan Sydney Region: a case crossover analysis. Environmental Health : A Global Access Science Source, 12(1), 98. https://dx.doi.org/10.1186/1476-069X-12-98 
+
+1.	Johnston, F.H., Hanigan, I.C., Henderson, S.B., and Morgan, G.G. (2013). Evaluation of interventions to reduce air pollution from biomass smoke on mortality in Launceston, Australia: retrospective analysis of daily mortality, 1994-2007. BMJ, 346, e8446. https://dx.doi.org/10.1136/bmj.e8446 
+
+1.	Hanigan, I.C., Butler, C.D., Kokic, P.N. and Hutchinson, M.F. (2012). Suicide and drought in New South Wales, Australia, 1970-2007. Proceedings of the National Academy of Sciences of the United States of America, 109(35), 13950-13955. https://dx.doi.org/10.1073/pnas.1112965109 
+
+1.	Vally, H., Peel, M., Dowse, G. K., Cameron, S., Codde, J. P., Hanigan, I., and Lindsay, M. D. A. (2012). Geographic Information Systems used to describe the link between the risk of Ross River virus infection and proximity to the Leschenault Estuary, WA. Australian and New Zealand Journal of Public Health, 36(3), 229–235. https://dx.doi.org/10.1111/j.1753-6405.2012.00869.x 
+
+1.	Edwards, F., Dixon, J., Friel, S., Hall, G., Larsen, K., Lockie, S., Wood, B., Lawrence, M., Hanigan, I., Hogan, A. & Hattersley, L. (2011). Climate change adaptation at the intersection of food and health. Asia-Pacific Journal of Public Health 23(2 Suppl), 91S–104. https://dx.doi.org/10.1177/1010539510392361 
+
+1.	Johnston, F.J., Hanigan, I.C., Henderson, S.B., Morgan, G.G, and Bowman, D.M.J.S. (2011). Extreme air pollution events from bushfires and dust storms and their association with mortality in Sydney, Australia 1994-2007. Environmental Research 111 (6): 811-816. https://dx.doi.org/10.1016/j.envres.2011.05.007 
+
+1.	Hall, G. V, Hanigan, I. C., Dear, K. B. G., and Vally, H. (2011). The influence of weather on community gastroenteritis in Australia. Epidemiology and Infection, 139(6), 927–936. https://dx.doi.org/10.1017/S0950268810001901 
+
+1.	Johnston, F., Hanigan, I.C., Henderson, S., Morgan, G., Portner, T., Williamson, G., and Bowman, D. (2011). Creating an integrated historical record of extreme particulate air pollution events in Australian cities from 1994 to 2007. Journal of the Air Waste Management Association, 61(4), 390-398. https://dx.doi.org/10.3155/1047-3289.61.4.390 
+
+1.	Johnston, F. H., Hanigan, I. C., & Bowman, D. M. J. S. (2009). Pollen loads and allergic rhinitis in Darwin, Australia: A potential health outcome of the grass-fire cycle. EcoHealth, 6(1), 99–108. https://dx.doi.org/10.1007/s10393-009-0225-1 
+
+1.	Bambrick, H. J., Woodruff, R. E., & Hanigan, I. C. (2009). Climate change could threaten blood supply by altering the distribution of vector-borne disease: an Australian case-study. Global Health Action. https://dx.doi.org/10.3402/gha.v2i0.2059 
+
+1.	Hanigan, I. C., Johnston, F. H., & Morgan, G. G. (2008). Vegetation fire smoke, indigenous status and cardio-respiratory hospital admissions in Darwin, Australia, 1996-2005: a time-series study. Environmental Health : A Global Access Science Source, 7, 42. https://dx.doi.org/10.1186/1476-069X-7-42 
+
+1.	Hanigan, I. C., & Johnston, F. H. (2007). Respiratory hospital admissions were associated with ambient airborne pollen in Darwin, Australia, 2004-2005. Clinical and Experimental Allergy, 37(10), 1556–1565. https://dx.doi.org/10.1111/j.1365-2222.2007.02800.x 
+
+1.	Johnston, F. H., Bailie, R. S., Pilotto, L. S., & Hanigan, I. C. (2007). Ambient biomass smoke and cardio-respiratory hospital admissions in Darwin, Australia. BMC Public Health, 7(1), 240. https://dx.doi.org/10.1186/1471-2458-7-240 
+
+1.	D’Souza, R. M., Bambrick, H. J., Kjellstrom, T. E., Kelsall, L. M., Guest, C. S., & Hanigan, I. (2007). Seasonal variation in acute hospital admissions and emergency room presentations among children in the Australian Capital Territory. Journal of Paediatrics and Child Health, 43(5), 359–365. https://dx.doi.org/10.1111/j.1440-1754.2007.01080.x 
+
+1.	Nicholls, N., Butler, C. D., & Hanigan, I. (2006). Inter-annual rainfall variations and suicide in New South Wales, Australia, 1964-2001. International Journal of Biometeorology, 50(3), 139–143. https://dx.doi.org/10.1007/s00484-005-0002-y 
+
+1.	Hanigan, I., Hall, G., & Dear, K. B. G. (2006). A comparison of methods for calculating population exposure estimates of daily weather for health research. International Journal of Health Geographics, 5(1), 38. https://dx.doi.org/10.1186/1476-072X-5-38 
+
+1.	Dear, K., Ranmuthugala, G., Kjellström, T., Skinner, C., & Hanigan, I. (2006). Effects of temperature and ozone on daily mortality during the August 2003 heat wave in France. Archives of Environmental & Occupational Health, 60(4), 205–212. https://dx.doi.org/10.3200/AEOH.60.4.205-212 
+
+
+
+
+# Reports
+
+1.	Boulter, P, Cope, M, Hanigan, I, Chaston, T, Morgan, G and Kulkarni, K 2022, DCCEEW 2022, Non-road diesel engines – cost-benefit analysis: final report, Department of Climate Change, Energy, the Environment and Water, Canberra, July. CC BY 4.0. This publication is available at https://www.dcceew.gov.au/environment/protection/air-quality/national-clean-air[1]agreement/evaluation-non-road-diesel-engine-emissions Cost-benefit analysis of management scenarios for non-road diesel engine emissions in Australia – Policy tool development and user guide, EMM Report J190631 RP5, EMM Consulting, St Leonards https://www.dcceew.gov.au/sites/default/files/documents/nrde-cost-benefit-analysis-executive%20summary.pdf
+
+1.	Hanigan, I.C., Geromboux, C., Horsley, J., Phelan, S., Jegasothy, E., Heathcote, K. and Morgan, G.G. (2020). Environmental health indicators for selected environmental risk/health outcome pairs in New South Wales. Human Health and Social Impacts (HHSI) Node of the NSW Adaptation Research Hub. The NSW Adaptation Research Hub is a collaboration between universities, climate-change and adaptation science experts, NSW Health, and the NSW Department of Planning, Industry and Environment (DPIE).  https://dx.doi.org/10.17605/OSF.IO/YJ98D 
+
+1.	Schirmer J. & Hanigan I.C. (2017). Internal report prepared for NSW DPI. Understanding the resilience of NSW farmers, Findings from the 2015 Regional Wellbeing Survey, Health Research Institute & Institute for Applied Ecology, University of Canberra.
+
+1.	Mazumdar S, Learnihan V, Cochrane T, Hanigan I.C., Davey R. (2016). Influence of neighbourhood on the burden of non-communicable-diseases in the Australian Capital Territory. Health Research Institute working paper. University of Canberra. http://www.canberra.edu.au/research/institutes/health-research-institute/annual-reports/reports/Influence-of-Neighbourhood-on-the-Burden-of-Non-Communicable-Diseasws-in-the-Australian-Capital-Territory.pdf  
+
+1.	Burns, E.L., Lindenmayer, D., Tennant, P., Dickman, C., Green, P., Hanigan, I.C., Hoffmann, A., Keith, D., Metcalfe, D., Nolan, K., Russell-Smith, J., Wardle, G., Welsh, A., Williams, R. & Yates, C. (2014). Making ecological monitoring successful. Long Term Ecological Research Network, Australian National University, Canberra, Australia.
+
+1.	McMichael, A., Berry, H., Butler, C., Capon, A., Dear, K., Hanigan, I.C., Lucas, R. & Strazdins, L. (2008). Assessing the scale and nature of health vulnerability to climate change. Technical report for WHO global consultation on ‘Guiding research to improve health protection from climate change’. World Health Organisation, Geneva. (D. Campbell-Lendrum & R. Bertollini, Eds.).
+
+1.	Berry, H.L., Kelly, B.J., Hanigan, I.C., Coates, J., McMichael, A.J., Welsh, J. & Kjellström, T. (2008). Rural mental health impacts of climate change. Garnaut Climate Change Review, Canberra
+
+1.	Bambrick, H., Dear, K., Woodruff, R., Hanigan, I.C. & McMichael, A. (2008). Garnaut Climate Change Review. The impacts of climate change on three health outcomes: temperature-related mortality and hospitalisations, salmonellosis and other bacterial gastroenteritis, and population at risk from dengue. Garnaut Climate Change Review, Canberra.
+
+1.	Hanigan, I. C. (2003). Hotspots of Pathogens in Drinking Water Catchments: Case Study of Googong Catchment. Canberra, Australia.
+
+1.	D’Souza, R., Hennessy, K., Cope, M., McMichael, A., Page, C., Whetton, P., Physick, B. & Hanigan, I.C. (2003). A scoping study of the impact of climate change on air pollution over Sydney. Consultancy for NSW Environmental Protection Agency, Sydney, Australia.
+
+1.	The first climate change risk assessment for Australia: “Human health and climate change in Oceania: a risk assessment 2002, Anthony J (Tony) Mcmichael, R. Woodruff, Penny Whetton, K. J. Hennessy, Neville Nicholls, Simon Hales, A. Woodward, Tord Kjellstrom. Commonwealth of Australia, Department of Health and Aging.”
+
+
+
+
+# Research grants
+
+1. Corbett, Hertzog, Hanigan, ARDCs National Data Assets Community Connect program, Where theres Smoke - Building Air Health Data Bridges (PS022 - AirHealth). $40,000.
+
+1. Hanigan, Data and model blending for the protoype AQFx smoke forecasting system, CSIRO, 6 months, $60,000
+
+2. Hanigan, Jalaludin, Co-design and capacity building workshop in Sarawak, Malaysia, CAR, $20,000.00 
+
+3. Gebremedhin A, Hanigan, I, Universal Thermal Climate Index and Risk of Pregnancy Complications in Western Australia: A retrospective time-to-event cohort study, Curtin School of Population Health, , $10,000
+
+4. Riley (NSW DPE), Hanigan, Bushfire ARDC firesmoke data, ARDC, 1.5 years from 2022, $800,000
+
+5. Hanigan, Pilot project for hosting high resolution fire smoke data, ASDAF, 3 months early 2022, $20,000
+
+6. Matthews (USYD) et al., Healing Country: integrating knowledge systems to meet climate challenges, ARC Discovery Indigenous, 4 years from 2022, $1,400,000
+
+7. May 2022 – May 2027, National Health and Medical Research Council (NHMRC), under the Special Initiative in Human Health and Environmental Change, to implement the Healthy Environments And Lives (HEAL) National Research Network (Total $16,000,000). ANU led (Vardoulakis)
+
+8. March 2021 – June 2023, Australian Research Data Commons. Public Sector Bridges program. “Integrated national air pollution and health data (Air Health data): Improving data access and tools for Air Pollution Health Impact Assessments in Australia”. PI Ivan Hanigan. $346K Partner cash and in-kind and ARDC funding was $334K (Total $680K).
+
+9. March 2021 – December 2022, Australian Research Data Commons. Platforms program. “Scientific workflow system for environmental health impact assessments (Air-Health SWS)”. PI Ivan Hanigan. $139K Partner cash and in-kind and ARDC funding was $163K (Total $302K).
+
+10. 2020, Google / Asthma Australia. A near-real-time spatiotemporal model of NO2 with interactive app for exposure profiles of individuals during trips for Google Maps. PI Ivan Hanigan. $25,000.
+
+11. 2020-2021, Commonwealth of Australia as represented by the Department of the Environment and Energy. “A cost-benefit analysis of options to manage non-road diesel engine emissions in Australia”. $138K. PI Martin Cope.
+
+12. 2020-2021, NHMRC CRE The Centre for Air quality and health Research and evaluation (CAR). Validated Bushfire Smoke Exposure Geodatabase for Health Research in Australia. PI Geoffrey Morgan, $70K.
+
+13. 2020, NSW Adaptation Research Hub project, Human Health and Social Impacts (HHSI) Node. “Environmental and Social Indicators for tracking health impacts of climate change”. PI I.C. Hanigan, $50K.
+
+14. July – December 2019, Australian Research Data Commons: “Enhancing the data, tools and policy translation resources on ‘CARDAT’; the NHMRC Centre for Air pollution, energy and health Research (CAR , www.carcre.org.au) Data and Analysis Technology (DAT) platform” PI Ivan Hanigan, $50K.
+
+15. 2018-19, NSW Adaptation Research Hub project, Human Health and Social Impacts (HHSI) Node. “Health and Social indicators of Environmental Exposures.” PI Geoffrey Morgan, USyd, $130K.
+
+16. 2018, Victoria EPA consultancy: Provision of an Estimation of the Burden of Disease from Environmental Noise in Melbourne $28K, PI Ivan Hanigan.
+
+17. 2018, Victoria EPA consultancy: Linking an online data platform for population health studies as part to the emissions inventory. $29K, PI Ivan Hanigan.
+
+18. 2018, Post-doctoral fellowship through NHMRC CRE The Centre for Air quality and health Research and evaluation (CAR). Part-time $34K, PI Ivan Hanigan.
+
+19. 2017, Post-doctoral fellowship through NHMRC CRE The Centre for Air quality and health Research and evaluation (CAR). Part-time $49K, PI Ivan Hanigan.
+
+20. 2017, Which exposure assessment approach is best suited to Australian epidemiological studies? Centre for Air pollution, energy and health Research (CAR). PI Luke Knibbs, UQ. $20K.
+
+21. 2012, A Scientific Workflow System for Assessing and Projecting the Health Impacts of Extreme Weather Events. Australian National Data Service Applications project. PI Keith Dear, ANU., $200K.
+
+
+
+
+# Teaching and learning
+
+I deliver courses, develop educational materials and supervise research scholars.
+
+I offer teaching and supervision for undergraduate and postgraduate students. I also prepare training materials for HIA and organise HIA training events.
+
+## Teaching
+
+- Teaching for the following School of Population Health Units
+
+    - PUBH3007 Climate Change, Health and Big Data, third year
+
+    - ENHL6000 Health Impact Assessment, Postgraduate
+
+        
+
+## Higher Degree Research
+
+### PhD Supervision
+
+- 2023 (Advertised): Evidence-based tools for climate change health impact assessments that enable low- and middle-income countries meet the sustainable development agenda. The 2024 Research Training Program (RTP) Scholarships at Curtin University (Read more: [https://scholarships.curtin.edu.au/Scholarship/?id=6734](https://scholarships.curtin.edu.au/Scholarship/?id=6734)).
+
+- 2023 (Started): I co-supervise Albaraa Milibari (Curtin University) 
+
+- 2022 (Completed): Heather Stevens (Macquarie University). PhD thesis title was Associations between temperature and interpersonal violence. PhD thesis is now available via [https://doi.org/10.25949/23282423.v1](https://doi.org/10.25949/23282423.v1)
+
+#### Masters
+
+- 2023 (Completed). Alec Cobbold, Supervisory panel: Christopher Rissel, Ivan Hanigan, Melanie Crane. Thesis title: Health behaviours and environmental perceptions during the COVID-19 pandemic.
+
+### Postdoctoral research fellowships
+
+- Primary Supervision of CSIRO/Data61 data science fellowship (Dr Imaina Widagdo, a student in this postdoctoral professional development program for Department of Health Staff: June and July 2017.
+
+## Other teaching activities
+
+- I teach environmental health methods and statistics at the University of Sydney in the Environmental Epidemiology unit for the Masters of Public Health/Global Health. I have assisted tutorials and marking the Masters course over 5 years.
+
+- In 2020 I organised and led a HIA workshop on air pollution HIA for CAR attended by representatives from research and government agencies. I am leading the planning of a follow up workshop in late 2021 that will include hands on training with HIA tools.
+
+- I regularly provide training for members of the CAR centre and coordinate “Hacky Hour” sessions to teach post-doctoral fellows.
+
+- Undergraduate teaching including regular guest lectures on health geography ANU and UNSW (Duntroon) GIS courses between 2012 and 2018.
+
+- VIC EPA, CSIRO and several Melbourne Universities (Monash, Melbourne, LaTrobe) workshop on CAR data sharing and analysis technology December 2018 Melbourne
+
+- I gave a workshop on multilevel data analysis for the ACT Health Department 25 May 2016.
+
+- I gave presentations on data publishing for the Australian National Data Service 23 (research data) Things 27 June and 6 September 2016 (https://www.youtube.com/watch?v=V5MwUEoCQPo).
+
+- Marking masters of environmental health assignments, University of Sydney, Semester 2 2015.
+
+
+
+
+# Conference presentations
+
+1.	Two posters at 2019 Annual Conference of the International Society for Environmental Epidemiology, August 25-28 2019, Utrecht, the Netherlands
+
+2.	(INVITED TALK) I.C. Hanigan, R. Broome, M. Cope, J. Heyworth, J. Horsley, B. Jalaludin, E. Jegasothy, L. Knibbs, G. Pereira, S. Vander Hoorn, B. Newell and G.G. Morgan (2019) “Comparing estimated years of life lost due to air pollution using system dynamics versus Leslie matrices”. Modelling and Simulation (MODSIM) Conference forthcoming. Canberra. December 2019. Special session I assisted as organiser (led by Dr Stefan Reis): ‘Integrated modelling and data science for environmental and human health’.
+
+3.	I.C. Hanigan, J. Schirmer, T. Niyonsenga. Drought and distress by age, gender and farming: findings from southeastern Australia. The Conference of the International Society for Environmental Epidemiology and International Society of Exposure Science-Asia Chapter 2018 (ISEE/ES-AC) Taipei, Taiwan, 2018.
+
+4.	Ivan C. Hanigan, Grant J. Williamson, Luke D. Knibbs, Joshua Horsley, Margaret I. Rolfe, Martin Cope, Adrian G. Barnett, Christine T. Cowie, Jane S. Heyworth, Marc L. Serre, Bin Jalaludin, and Geoffrey G. Morgan. Bayesian blending of nitrogen dioxide air pollution data for neighbourhood estimates for health research. Awarded a New Researcher Best Abstract Award for Asia, Africa, Latin America/Caribbean and Oceania at the 2017 conference of the International Society of Environmental Epidemiology (ISEE), Sydney, Australia, 24-28 September. 
+
+5.	Hanigan, I., Cochrane, T., Davey, R. The Scale Issue for Heart Disease Mapping and Associations with Disadvantage using Aggregated Hospital Data. Institute of Australian Geographers Conference, Brisbane, Australia, 12-14th July 2017.
+
+6.	Ambrey, C., Hanigan, I. Schirmer, J. Does vegetation cover mediate the impact of drought on psychological distress in farmers? Institute of Australian Geographers Conference, Brisbane, Australia, 12-14th July 2017.
+
+7.	Hanigan, I., Porfirio, L., Hutchinson, M. (Poster) Combining Climate Index With Drought Declarations To Create A Definition Of Drought For Human Wellbeing Research. One Health and International Association for Ecology and Health joint congress , Melbourne 3rd-7th Dec 2016  
+
+8.	Hanigan, I., Learnihan, V., Mazumdar, M., Cochrane, T., Davey, R., Phung, H., O’Connor, B., Yu, Y., Bagheri, N. Associations of hospitalisation for cardiovascular disease with neighbourhood walkability and food locations in Canberra, Australia, 2007-2013.  Institute of Australian Geographers (IAG) conference Adelaide 29th June 2016.
+
+9.	Hanigan, I., Morgan, G., Williamson, G., et al. Blending data with different levels of uncertainty for pollution exposure estimates in Sydney and Perth, Australia. Centre for Air quality and health Research evaluation (CAR) Symposium, Sydney, 5th of May, 2016
+
+10.	Guru, S., Blanchard, W., Hanigan, I., Burns, E., Stein, J., Lindenmayer, D. & Clancy, T. (2015). A Scientific Workflow to apply an IUCN Red List Ecosystem Assessment of Mountain Ash Forest. 2015 Ecological Society of Australia Annual Conference. Adelaide, South Australia. 29 November, 2015.
+
+11.	Viennet, E., Dear, K., Faddy, H., Hanigan, I., McMichael, A., Ritchie, S., Williams, C. & Harley, D. (2014). Dengue Transmission in a High-Income Country: Descriptive and Spatio-Temporal Analysis. 9th insitut pasteur conference: Emerging infectious diseases.
+
+12.	Butler, C. D., Turner, G. M., Hanigan, I. C., & Bowles, D. C. (2013). Climate change adaptation: a mirage that threatens to trap us in dry sand. In Greenhouse 2013, The science of climate change. Adelaide, South Australia. 9 October, 2013.
+
+13.	Johnston, F., Hanigan, I. C., Henderson, S. B., & Morgan, G. G. (2013). Biomass Smoke Pollution And Mortality Rates In Launceston, Australia, 1994-2007: Evaluation Of Coordinated Interventions To Improve Ambient Air Quality. In The joint ISEE, ISES and ISIAQ Environmental Health Conference (19-23 August 2013). Basel, Switzerland.
+
+14.	Hanigan, I., Fisher, D., & Mceachern, S. (2013). Open Software - Restricted Data : A Suicide / Climate Case Study . In National Climate Change Adaptation Research Facility Conference “Climate Adaptation knowledge and partnership”. June 2013, Sydney. (pp. 1–8).
+
+15.	Bambrick, H., Woodruff, R., & Hanigan, I. (2011). P2-364 Climate change threatens blood supply through altering the distribution of vector-borne disease: an Australian Case-Study. Journal of Epidemiology & Community Health, 65(Suppl 1), A323–A323. https://dx.doi.org/10.1136/jech.2011.142976k.95
+
+16.	Johnston, F., Hanigan, I., Henderson, S., Morgan, G., & Bowman, D. (2011). The association between mortality and air pollution events from bushfires and dust storms in Sydney, 1994-2007. In Royal College of Physicians Annual Scientific Meeting. Darwin.
+
+17.	Johnston, F. H., Hanigan, I. C., Henderson, S. B., Morgan, G. G., & Bowman, D. M. J. S. (2011). Preliminary Results From the Australian Landscape Fire Smoke Project. Abstracts: ISEE 22nd Annual Conference, Seoul, Korea, 28 August-1 September 2010: Outdoor Air Pollution From Residential Wood Combustion and Associated Health Effects. Epidemiology, 22(1), S186 https://dx.doi.org/10.1097/01.ede.0000392251.52154.6f
+
+18.	Bambrick, H., Dear, K., & Hanigan, I. (2009). Deaths in a sunburnt country: Differential mortality responses to temperatures in hot country. In IOP Conference Series.
+
+19.	Banwell, C., Dixon, J., Bambrick, H., Hinde, S., Kjellstrom, T., Lucas, R., & Hanigan, I. C. (2009). Socio-cultural reflections on comfort and heat in Australia with implications for climate change adaption. In Climate Change: Global Risks, Challenges and Decisions. IOP Conf. Series: Earth and Environmental Science (Vol. 6, p. 572023). https://dx.doi.org/10.1088/1755-1307/6/7/572023
+
+20.	Hanigan, I., Johnston, F., Morgan, G., Dingle, J., & Bowman, D. (2008). Assessing the Relationship Between Exposure to Vegetation Fire Smoke and Hospital Admissions when Empirical Air Quality Measurements are Limited: Darwin, Australia, 1996-2005. In Epidemiology: 2008, Vol 19 Issue 6 - pp S266-S267. Abstracts from the Joint Annual Conference of the International Society for Environmental Epidemiology and International Society of Exposure Analysis. Pasadena, California, Oct 2008.
+
+21.	D’Souza, R., Hall, G., Becker, N., Vally, H., & Hanigan, I. (2006). Effect of Ambient Temperature and Age on Salmonella Notifications in Australia. In Epidemiology.
+
+22.	D’Souza, R. M., Becker, N. G., Kjellstrom, T., Bambrick, H., Woodruff, R., Kelsall, L., Hanigan, I. & Guest, C. (2005). Influence of Climatic Factors on Hospitalisations and Emergency Room Presentations for Asthma and Other (Non-Asthma) Respiratory Conditions in Children. In Epidemiology (Vol. 16, p. S50). https://dx.doi.org/10.1097/00001648-200509000-00116
+
+23.	D’Souza, R. M., Becker, N. G., Hall, G., Kjellstrom, T., Bambrick, H., Kelsall, L., Hanigan, I & Guest, C. (2005). Climatic Factors Associated With Hospitalisations and Emergency Room Presentations for Diarrhoea in Children. In Epidemiology (Vol. 16, p. S60).
+
+
+
+
+# Programming expertise
+
+- I have extensive skills with the R language for statistical computing and graphics.
+
+- I contribute to several R packages and open source code project sites via my GitHub pages (https://github.com/ivanhanigan).
+
+- I also have experience with Statistical tools in Splus, Stata, Kepler-project and SPSS.
+
+- I am adept at generic programming and configuring Postgres, PostGIS, Geoserver, QGIS, ArcGIS, Oracle-XE, Linux (Ubuntu, Centos, RHEL).
 

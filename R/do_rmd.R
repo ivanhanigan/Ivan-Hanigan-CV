@@ -3,11 +3,12 @@ library(data.table)
 worddoc <- T
 
 txt <- list()
-cv <- F
-short <- T
+cv <- T
+short <- F
 if(cv == TRUE){
 txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
 txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n', comment.char = "")
+txt[['Awards']] <- read.table('awards.md', sep = '\n', comment.char = "")
 txt[['Papers']] <- read.table('papers.md', sep = '\n', comment.char = "")
 txt[['Reports']] <- read.table('reports.md', sep = '\n', comment.char = "")
 txt[['Research grants']] <- read.table('research-grants.md', sep = '\n', comment.char = "")
