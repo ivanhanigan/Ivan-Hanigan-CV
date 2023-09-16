@@ -10,7 +10,7 @@ title: Ivan C. Hanigan PhD
 
 ## Current Role
 
-Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment
+Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment ([https://research.curtin.edu.au/whocc-cchia/](https://research.curtin.edu.au/whocc-cchia/))
 
 Senior Lecturer in Climate Change and Health
 
