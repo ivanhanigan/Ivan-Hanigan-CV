@@ -3,6 +3,7 @@ layout: default
 title: Media
 ---
 
+1. My work on the 2019-2020 Black Summer bushfire smoke impact on mortality was highlighted in a Sydney Morning Herald opinion piece advocating for a more nuanced approach to managing smoke exposure from the recent hazard reduction burns there. September 2023. https://www.smh.com.au/national/nsw/it-s-time-to-stop-sydneysiders-sharing-one-gigantic-ciggie-20230915-p5e4zd.html
 1. I published one of the first studies projecting future impacts of drought on suicide and was also able to publish a piece calling for more conversation about mitigation not just adaptation for the conversation https://theconversation.com/drought-increases-rural-suicide-and-climate-change-will-make-drought-worse-185392 
 1. I published one of the first studies globally of observed climate change health impacts (https://doi.org/10.1111/1753-6405.13107). To support this important finding I contributed an article in The Conversation for the general public: https://theconversation.com/more-people-die-in-winter-than-summer-but-climate-change-may-see-this-reverse-159135.
 1. In the bushfire crisis of 2019/2020 I was able to provide comments to five articles in the media. 

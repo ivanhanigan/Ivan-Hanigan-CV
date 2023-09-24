@@ -5,6 +5,7 @@ employment
 professional-training-and-qualifications
 awards
 papers
+book-chapters
 reports
 research-grants
 teaching-and-learning
@@ -14,5 +15,5 @@ phd-supervision
 masters
 postdoctoral-research-fellowships
 other-teaching-activities
-conference-presentations
+conferences-and-workshops
 programming-expertise

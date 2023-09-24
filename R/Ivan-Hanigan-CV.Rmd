@@ -247,6 +247,13 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 
 
+# Book chapters
+
+1. Global air pollution, fire, climate change, and health.  Colin D. Butler, Ivan C. Hanigan. in CLIMATE CHANGE AND GLOBAL HEALTH: Colin D. Butler and Kerryn Higgs (eds). 3rd edition. Forthcoming 
+
+
+
+
 # Reports
 
 1.	Boulter, P, Cope, M, Hanigan, I, Chaston, T, Morgan, G and Kulkarni, K 2022, DCCEEW 2022, Non-road diesel engines – cost-benefit analysis: final report, Department of Climate Change, Energy, the Environment and Water, Canberra, July. CC BY 4.0. This publication is available at https://www.dcceew.gov.au/environment/protection/air-quality/national-clean-air[1]agreement/evaluation-non-road-diesel-engine-emissions Cost-benefit analysis of management scenarios for non-road diesel engine emissions in Australia – Policy tool development and user guide, EMM Report J190631 RP5, EMM Consulting, St Leonards https://www.dcceew.gov.au/sites/default/files/documents/nrde-cost-benefit-analysis-executive%20summary.pdf
@@ -378,7 +385,7 @@ I offer teaching and supervision for undergraduate and postgraduate students. I 
 
 
 
-# Conference presentations
+# Conferences and workshops
 
 1.	Two posters at 2019 Annual Conference of the International Society for Environmental Epidemiology, August 25-28 2019, Utrecht, the Netherlands
 

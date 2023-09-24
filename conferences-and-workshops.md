@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conference presentations
+title: Conferences and workshops
 ---
 
 1.	Two posters at 2019 Annual Conference of the International Society for Environmental Epidemiology, August 25-28 2019, Utrecht, the Netherlands

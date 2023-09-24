@@ -10,10 +10,11 @@ txt[['Education and employment']] <- read.table('education-and-employment.md', s
 txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n', comment.char = "")
 txt[['Awards']] <- read.table('awards.md', sep = '\n', comment.char = "")
 txt[['Papers']] <- read.table('papers.md', sep = '\n', comment.char = "")
+txt[['Book chapters']] <- read.table('book-chapters.md', sep = '\n', comment.char = "")
 txt[['Reports']] <- read.table('reports.md', sep = '\n', comment.char = "")
 txt[['Research grants']] <- read.table('research-grants.md', sep = '\n', comment.char = "")
 txt[['Teaching and learning']] <- read.table('teaching-and-supervision.md', sep = '\n', comment.char = "")
-txt[['Conference presentations']] <- read.table('conference-presentations.md', sep = '\n', comment.char = "")
+txt[['Conferences and workshops']] <- read.table('conferences-and-workshops.md', sep = '\n', comment.char = "")
 txt[['Programming expertise']] <- read.table('programming-expertise.md', sep = '\n',comment.char = "")
 }
 if(short){
