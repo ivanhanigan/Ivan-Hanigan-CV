@@ -3,9 +3,8 @@ layout: default
 title: Research grants
 ---
 
-1. Vyas, Hanigan. WHO Asia-pacific Centre for Environment (ACE) funding for Case Studies on Climate Resilient and Low Carbon Health Systems. 2023. $40,000.
+1. Johnston (UTAS). Centre for Safe Air, NHMRC. $2,500,000
 1. Vyas, Hanigan. We were approached by the UN Climate Change (UNFCCC) COP28 Health Programme to provide technical expertise to the climate-health negotiations in Dubai in December 2023. Dr Vyas will undertake this activity jointly funded through Curtin and the NHMRC HEAL network. 2023. $50,000.
-1. Corbett, Hertzog, Hanigan, ARDC's National Data Assets Community Connect program, Where there's Smoke - Building Air Health Data Bridges (PS022 - AirHealth). 2023. $40,000.
 1. Hanigan, Data and model blending for the protoype AQFx smoke forecasting system, CSIRO, 6 months, $60,000
 2. Hanigan, Jalaludin, Co-design and capacity building workshop in Sarawak, Malaysia, 2023, CAR, $20,000.00 
 3. Gebremedhin A, Hanigan, I, Universal Thermal Climate Index and Risk of Pregnancy Complications in Western Australia: A retrospective time-to-event cohort study, Curtin School of Population Health, 2023, $10,000
