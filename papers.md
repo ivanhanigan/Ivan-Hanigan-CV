@@ -3,6 +3,7 @@ layout: default
 title: Papers
 ---
 
+1. Nicolas Borchers-Arriagada, Stephen Vander Hoorn, Martin Cope, Geoffrey Morgan, Ivan Hanigan, Grant Williamson, Fay H. Johnston. (2024). The mortality burden attributable to wood heater smoke particulate matter (PM2.5) in Australia, Science of The Total Environment, Volume 921, https://doi.org/10.1016/j.scitotenv.2024.171069.
 1. Lucas Hertzog, Geoffrey G. Morgan, Cassandra Yuen, Karthik Gopi, Gavin F. Pereira, Fay H. Johnston, Martin Cope, Timothy B. Chaston, Aditya Vyas, Sotiris Vardoulakis, Ivan C. Hanigan, (2024). Mortality burden attributable to exceptional PM2.5 air pollution events in Australian cities: A health impact assessment, Heliyon,Volume 10, Issue 2, https://doi.org/10.1016/j.heliyon.2024.e24532.
 1. Xu, R., Yu, P., Liu, Y., Chen, G., Yang, Z., Zhang, Y., Wu, Y., Beggs, P., Zhang, Y., Boocock, J., Ji, F., Hanigan, I., Jay O., Bi, P., Vargas, N., Leder, K., Green, D., Quail, K., Huxley, R., Jalaludin, B., Hu, W., Dennekamp, M., Vardoulakis, S., Bone, A., Abrahams, J., Johnston, F., Broome, R., Capon, T., Li, S., Guo, Y., (Accepted). Climate change, environmental extremes, and human health in Australia: challenges, adaptation strategies, and policy gaps. The Lancet Regional Health - Western Pacific.
 1. Stevens H.R., Graham P.L., Hanigan I.C., Beggs P.J., (2023) No retreat from the heat; Temperature-related risk of violent assault is increased by being inside. International Journal of Urban Sciences [https://doi.org/10.1080/12265934.2023.2209544](https://doi.org/10.1080/12265934.2023.2209544)
