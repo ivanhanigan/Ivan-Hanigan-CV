@@ -130,13 +130,17 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 # Papers
 
+1. Nicolas Borchers-Arriagada, Stephen Vander Hoorn, Martin Cope, Geoffrey Morgan, Ivan Hanigan, Grant Williamson, Fay H. Johnston. (2024). The mortality burden attributable to wood heater smoke particulate matter (PM2.5) in Australia, Science of The Total Environment, Volume 921, https://doi.org/10.1016/j.scitotenv.2024.171069.
+
+1. Lucas Hertzog, Geoffrey G. Morgan, Cassandra Yuen, Karthik Gopi, Gavin F. Pereira, Fay H. Johnston, Martin Cope, Timothy B. Chaston, Aditya Vyas, Sotiris Vardoulakis, Ivan C. Hanigan, (2024). Mortality burden attributable to exceptional PM2.5 air pollution events in Australian cities: A health impact assessment, Heliyon,Volume 10, Issue 2, https://doi.org/10.1016/j.heliyon.2024.e24532.
+
 1. Xu, R., Yu, P., Liu, Y., Chen, G., Yang, Z., Zhang, Y., Wu, Y., Beggs, P., Zhang, Y., Boocock, J., Ji, F., Hanigan, I., Jay O., Bi, P., Vargas, N., Leder, K., Green, D., Quail, K., Huxley, R., Jalaludin, B., Hu, W., Dennekamp, M., Vardoulakis, S., Bone, A., Abrahams, J., Johnston, F., Broome, R., Capon, T., Li, S., Guo, Y., (Accepted). Climate change, environmental extremes, and human health in Australia: challenges, adaptation strategies, and policy gaps. The Lancet Regional Health - Western Pacific.
 
 1. Stevens H.R., Graham P.L., Hanigan I.C., Beggs P.J., (2023) No retreat from the heat; Temperature-related risk of violent assault is increased by being inside. International Journal of Urban Sciences [https://doi.org/10.1080/12265934.2023.2209544](https://doi.org/10.1080/12265934.2023.2209544)
 
 1.	Jegasothy, E. Hanigan, I.C.,  Van Buskirk J., Morgan G.G., Jalaludin B., Johnston F.H., Guo Y., Broome, R.A. (2022). Acute health effects of bushfire smoke on mortality in Sydney, Australia, Environment International, doi: https://doi.org/10.1016/j.envint.2022.107684. 
 
-1.	Beggs, Paul J, Zhang, Ying, McGushin, Alice, Trueck, Stefan, Linnenluecke, Martina K, Bambrick, Hilary, Capon, Anthony G, Vardoulakis, Sotiris, Green, Donna, Malik, Arunima, Jay, Ollie, Heenan, Maddie, Hanigan, Ivan C,  Friel, Sharon, Stevenson, Mark, Johnston, Fay H, McMichael, Celia, Charlson, Fiona, Woodward, Alistair J and Romanello, Marina B. (In Press) The 2022 report of the MJA-Lancet Countdown on health and climate change: Australia unprepared and paying the price. MJA.
+1.	Beggs, Paul J, Zhang, Ying, McGushin, Alice, Trueck, Stefan, Linnenluecke, Martina K, Bambrick, Hilary, Capon, Anthony G, Vardoulakis, Sotiris, Green, Donna, Malik, Arunima, Jay, Ollie, Heenan, Maddie, Hanigan, Ivan C,  Friel, Sharon, Stevenson, Mark, Johnston, Fay H, McMichael, Celia, Charlson, Fiona, Woodward, Alistair J and Romanello, Marina B. (2022) The 2022 report of the MJA-Lancet Countdown on health and climate change: Australia unprepared and paying the price. MJA. https://doi.org/10.5694/mja2.51742
 
 1.	Hanigan, Ivan C., and Timothy B. Chaston. ‘Climate Change, Drought and Rural Suicide in New South Wales, Australia: Future Impact Scenario Projections to 2099’. International Journal of Environmental Research and Public Health 19, no. 13 (2022): 7855. https://doi.org/10.3390/ijerph19137855.
 
@@ -260,7 +264,7 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 1.	Boulter, P, Cope, M, Hanigan, I, Chaston, T, Morgan, G and Kulkarni, K 2022, DCCEEW 2022, Non-road diesel engines – cost-benefit analysis: final report, Department of Climate Change, Energy, the Environment and Water, Canberra, July. CC BY 4.0. This publication is available at https://www.dcceew.gov.au/environment/protection/air-quality/national-clean-air[1]agreement/evaluation-non-road-diesel-engine-emissions Cost-benefit analysis of management scenarios for non-road diesel engine emissions in Australia – Policy tool development and user guide, EMM Report J190631 RP5, EMM Consulting, St Leonards https://www.dcceew.gov.au/sites/default/files/documents/nrde-cost-benefit-analysis-executive%20summary.pdf
 
-1.      Lee G, Spencer J, Standen J, Van Buskirk J, Boylan S, Petersen M, Hanigan I, Jegasothy E, Morgan G. (2020). Aboriginal Health and Climate in New South Wales. Human Health and Social Impacts (HHSI) Node of the NSW Adaptation Research Hub. The NSW Adaptation Research Hub is a collaboration between universities, climate-change and adaptation science experts, NSW Health, and the NSW Department of Planning, Industry and Environment (DPIE).
+1. Lee G, Spencer J, Standen J, Van Buskirk J, Boylan S, Petersen M, Hanigan I, Jegasothy E, Morgan G. (2020). Aboriginal Health and Climate in New South Wales. Human Health and Social Impacts (HHSI) Node of the NSW Adaptation Research Hub. The NSW Adaptation Research Hub is a collaboration between universities, climate-change and adaptation science experts, NSW Health, and the NSW Department of Planning, Industry and Environment (DPIE).
 
 1.	Hanigan, I.C., Geromboux, C., Horsley, J., Phelan, S., Jegasothy, E., Heathcote, K. and Morgan, G.G. (2020). Environmental health indicators for selected environmental risk/health outcome pairs in New South Wales. Human Health and Social Impacts (HHSI) Node of the NSW Adaptation Research Hub. The NSW Adaptation Research Hub is a collaboration between universities, climate-change and adaptation science experts, NSW Health, and the NSW Department of Planning, Industry and Environment (DPIE).  https://dx.doi.org/10.17605/OSF.IO/YJ98D 
 
@@ -287,11 +291,9 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 # Research grants
 
-1. Vyas, Hanigan. WHO Asia-pacific Centre for Environment (ACE) funding for Case Studies on Climate Resilient and Low Carbon Health Systems. 2023. $40,000.
+1. Johnston (UTAS). Centre for Safe Air, NHMRC. $2,500,000
 
 1. Vyas, Hanigan. We were approached by the UN Climate Change (UNFCCC) COP28 Health Programme to provide technical expertise to the climate-health negotiations in Dubai in December 2023. Dr Vyas will undertake this activity jointly funded through Curtin and the NHMRC HEAL network. 2023. $50,000.
-
-1. Corbett, Hertzog, Hanigan, ARDCs National Data Assets Community Connect program, Where theres Smoke - Building Air Health Data Bridges (PS022 - AirHealth). 2023. $40,000.
 
 1. Hanigan, Data and model blending for the protoype AQFx smoke forecasting system, CSIRO, 6 months, $60,000
 
