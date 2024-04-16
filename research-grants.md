@@ -3,6 +3,7 @@ layout: default
 title: Research grants
 ---
 
+1. Vardoulakis (UC). Climate change adaptation to smoke haze for improved child health in Southeast Asia NHMRC ID: App2026359 Commencement: 1 July 2024
 1. Johnston (UTAS). Centre for Safe Air, NHMRC. $2,500,000
 1. Vyas, Hanigan. We were approached by the UN Climate Change (UNFCCC) COP28 Health Programme to provide technical expertise to the climate-health negotiations in Dubai in December 2023. Dr Vyas will undertake this activity jointly funded through Curtin and the NHMRC HEAL network. 2023. $50,000.
 1. Hanigan, Data and model blending for the protoype AQFx smoke forecasting system, CSIRO, 6 months, $60,000
