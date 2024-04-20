@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Papers
 ---
+
+## Papers
 
 1. Sowden, M.; Hanigan, I.C.; Robbins, D.J.V.; Cope, M.; Silver, J.D.; Noonan, J. Characterizing Smoke Haze Events in Australia Using a Hybrid Approach of Satellite-Based Aerosol Optical Depth and Chemical Transport Model. Remote Sens. 2024, 15.
 1. Beggs, P. J., Trueck, S., Linnenluecke, M. K., Bambrick, H., Capon, A. G., Hanigan, I. C., Arriagada, N. B., Cross, T. J., Friel, S., Green, D., Heenan, M., Jay, O., Kennard, H., Malik, A., McMichael, C., Stevenson, M., Vardoulakis, S., Dang, T. N., Garvey, G., Lovett, R., Matthews, V., Phung, D., Woodward, A. J., Romanello, M. B., Zhang, Y. (2024). The 2023 report of the  MJA  – Lancet Countdown on health and climate change: Sustainability needed in Australia’s health care sector. Medical Journal of Australia, mja2.52245. https://doi.org/10.5694/mja2.52245

@@ -1,14 +1,12 @@
 ---
 name: about-me
 layout: default
-title: Ivan C. Hanigan PhD
 ---
 
-- Email: ivan.hanigan@curtin.edu.au
-- ORCID: [http://orcid.org/0000-0002-6360-6793](http://orcid.org/0000-0002-6360-6793)
-- Google Scholar: [https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en](https://scholar.google.com/citations?user=cGN1P0wAAAAJ&hl=en)
+## Education and employment
 
-## Current Role
+
+### Current Role
 
 Director, WHO Collaborating Centre for Climate Change and Health Impact Assessment ([https://research.curtin.edu.au/whocc-cchia/](https://research.curtin.edu.au/whocc-cchia/))
 
@@ -22,9 +20,7 @@ Associate investigator of the NHMRC Centre for Air pollution, energy and health 
 
 Main Responsibilities: Research leadership, teaching, unit coordination, analysis and data management oversight, science translation, engagement with general audience, research dissemination.
 
-Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted Citation Impact of 1.9.
-
-## Education
+### Education
 
 *Australian National University*
 
@@ -34,9 +30,9 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
     - Passed with no corrections. 
     - Conferred on 04/10/2016.
 
-- 1998-2005: Bachelor of Arts in Geography and Human Ecology, First Class Honours in Environmental Health, School of Resources, Environment and Society, ANU.
+- 1998-2005: Bachelor in Human Sciences, Geography and Human Ecology, First Class Honours in Environmental Health, School of Resources, Environment and Society, ANU.
 
-## Employment
+### Employment
 
 *Curtin University 2022-present*
 
@@ -44,8 +40,8 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 *The University of Sydney*
 
-- 2018-2021. Data Scientist (Epidemiology), University Centre of Rural Health. School of Public Health
-- 2017-2019. Part time Post-doc Research Fellow, Centre for Air pollution and health Research.
+- 2018-2021. Research Data Scientist, Sydney School of Public Health and Sydney University Centre for Rural Health.
+- 2017-2019. Part time Post-doctoral Research Fellow, NHMRC Centre for Air pollution and health Research.
 - 2015-2016. Data Manager/Analyst, University Centre of Rural Health.
 
 *The University of Canberra*
@@ -64,4 +60,4 @@ Citations: I currently have a Scopus h-index of 24 and a SciVal Field-Weighted C
 
 
 
-*Older:* CSIRO Adaptive Primary Industries 2013; James Cook University 2013-2015; The University of Tasmania 2008-2011; and Charles Darwin University 2006-2007. 
+

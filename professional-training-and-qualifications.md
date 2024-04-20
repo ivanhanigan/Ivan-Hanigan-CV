@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Professional training and qualifications
 ---
 
+## Professional training and qualifications
+
+- Training in Health Impact Assessment usage of Collaborative Conceptual Modelling (CCM), 2023, Professor Barry Newell and Katrina Proust, ANU.
 - Mentoring and training in System Dynamics Collaborative Conceptual Modelling (CCM), 2021, Professor Barry Newell and Katrina Proust, ANU.
 - System Dynamics for Health Sciences, 2020, the University of the Witwatersrand, Johannesburg, EdX.
 - I was competitively selected to complete 2017 University of Canberra Early Career Academic Research Development Program (ECARD) program for example media training and project management.

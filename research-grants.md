@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Research grants
 ---
+
+## Research grants
 
 1. Vardoulakis (UC). Climate change adaptation to smoke haze for improved child health in Southeast Asia NHMRC ID: App2026359 Commencement: 1 July 2024
 1. Johnston (UTAS). Centre for Safe Air, NHMRC. $2,500,000
