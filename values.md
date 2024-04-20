@@ -1,6 +1,5 @@
 ---
 layout: default
-name: Values and vision
 ---
 
 ## Values and vision
