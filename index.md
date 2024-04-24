@@ -1,5 +1,5 @@
 ---
-name: ivan-hanigan-cv-dark
+name: ivan-hanigan-cv
 layout: default
 ---
 

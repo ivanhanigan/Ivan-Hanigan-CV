@@ -44,7 +44,7 @@ Source: McMichael, A., Berry, H., Butler, C., Capon, A., Dear, K., **Hanigan, I.
                     {{ tag }}
                     <span>({{ postCount }})</span>
                 </a> -->
-                <a href="/Ivan-Hanigan-CV-dark/tag/{{ tag }}">{{ tag }} ({{ postCount }})</a>
+                <a href="/Ivan-Hanigan-CV/tag/{{ tag }}">{{ tag }} ({{ postCount }})</a>
             </li>
         {% endfor %}
     </ul>
@@ -58,15 +58,15 @@ Source: McMichael, A., Berry, H., Butler, C., Capon, A., Dear, K., **Hanigan, I.
 <ul>
   {% for post in site.posts %}
     <li>
-      <!-- <h2><a href="https://ivanhanigan.github.io/Ivan-Hanigan-CV-dark{{ post.url }}">{{  post.title }}</a></h2> -->
-      <h2><a href="/Ivan-Hanigan-CV-dark{{ post.url }}">{{ post.date | date_to_string }}: {{  post.title }}</a></h2> 
+      <!-- <h2><a href="https://ivanhanigan.github.io/Ivan-Hanigan-CV{{ post.url }}">{{  post.title }}</a></h2> -->
+      <h2><a href="/Ivan-Hanigan-CV{{ post.url }}">{{ post.date | date_to_string }}: {{  post.title }}</a></h2> 
       {{ post.excerpt }} 
-      <a href="/Ivan-Hanigan-CV-dark{{ post.url }}">Read more</a>
+      <a href="/Ivan-Hanigan-CV{{ post.url }}">Read more</a>
       <p></p>
-      tags: <a href="/Ivan-Hanigan-CV-dark/tag/{{ post.tags | first }}">{{ post.tags | first }}</a>
-      <a href="/Ivan-Hanigan-CV-dark/tag/{{ post.tags | last }}">{{ post.tags | last }}</a>
+      tags: <a href="/Ivan-Hanigan-CV/tag/{{ post.tags | first }}">{{ post.tags | first }}</a>
+      <a href="/Ivan-Hanigan-CV/tag/{{ post.tags | last }}">{{ post.tags | last }}</a>
 
-<!--      tag: <a href="/Ivan-Hanigan-CV-dark/tag/{{ post.tags }}">{{ post.tags }}</a> -->
+<!--      tag: <a href="/Ivan-Hanigan-CV/tag/{{ post.tags }}">{{ post.tags }}</a> -->
 <P></P>
     </li>
   {% endfor %}
