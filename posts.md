@@ -3,7 +3,7 @@ layout: default
 name: Posts
 ---
 
-<h2 class="widget-title">Entries by Tags</h2>
+<h2 class="widget-title">Posts</h2>
 
 Jump to [Latest Posts](#latest-posts)
 
@@ -13,7 +13,13 @@ The image below shows how my research outputs have been tagged using a comprehen
 
 Source: McMichael, A., Berry, H., Butler, C., Capon, A., Dear, K., **Hanigan, I.C.**, Lucas, R. & Strazdins, L. (2008). Assessing the scale and nature of health vulnerability to climate change. Technical report for WHO global consultation on ‘Guiding research to improve health protection from climate change’. World Health Organisation, Geneva. (D. Campbell-Lendrum & R. Bertollini, Eds.).
 
+
+## Tags
+
 <ul>
+
+
+
 <!-- my first attempt -->
 <!--{% for tag in  site.tags   %}
 <li><a href="/Ivan-Hanigan-CV/tag/{{tag | first}}">{{tag | first}} ({{tag | last | size }})</a></li>
