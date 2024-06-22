@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Data and code
 ---
+
+## Data and code
 
 - Hanigan IC, Morgan GG, Williamson GJ, Salimi F, Henderson, Sarah B., Turner MR, Bowman DMJS, Johnston FH (2017) The Biomass Smoke Validated Events Database. http://dx.doi.org/10.4225/64/59276c30b3a01.
 - Hanigan, I.C., Guillaume, J., Markham, F., Williamson, G., Szarka, I., Hanson, J. O, Sparks, A. H. (2016) AWAPTOOLS: Software to download and reformat Australian Water Availability Grids from BoM/CSIRO. https://github.com/swish-climate-impact-assessment/awaptools 

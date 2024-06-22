@@ -3,6 +3,11 @@ layout: default
 title: Archives
 ---
 
+## Archives
+
+
+Jump to [Entries By Tags](#entries-by-tag)
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,8 +17,8 @@ title: Archives
 </ul>
 
 
-
-<h2 class="widget-title">Entries list of posts per title (posts are newest to oldest) </h2>
+<h2> <a name="entries-by-tag"></a>Entries by tag</h2>
+<!--<h2 class="widget-title">Entries list of posts per title (posts are newest to oldest) </h2>-->
 <ul>
 <!-- Kudos to https://stackoverflow.com/a/54637489 -->
 <!-- // create empty array -->
@@ -43,6 +48,7 @@ title: Archives
                 </div>
             {% endif %}
         {% endfor %}
+        <p></p>
     {% endfor %}
 <!-- </section> -->
 

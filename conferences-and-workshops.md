@@ -1,8 +1,21 @@
 ---
 layout: default
-title: Conferences and workshops
 ---
 
+## Conferences and workshops
+
+
+### Workshops organised
+- IAG 23 HGSG
+- IAG 23 HEALTH STREAM
+- MALAYSIA
+
+### Conferences organised
+- HEAL 21
+- HEAL 22
+- ISEE 17
+
+### Conference presentations
 1.	Two posters at 2019 Annual Conference of the International Society for Environmental Epidemiology, August 25-28 2019, Utrecht, the Netherlands
 2.	(INVITED TALK) I.C. Hanigan, R. Broome, M. Cope, J. Heyworth, J. Horsley, B. Jalaludin, E. Jegasothy, L. Knibbs, G. Pereira, S. Vander Hoorn, B. Newell and G.G. Morgan (2019) “Comparing estimated years of life lost due to air pollution using system dynamics versus Leslie matrices”. Modelling and Simulation (MODSIM) Conference forthcoming. Canberra. December 2019. Special session I assisted as organiser (led by Dr Stefan Reis): ‘Integrated modelling and data science for environmental and human health’.
 3.	I.C. Hanigan, J. Schirmer, T. Niyonsenga. Drought and distress by age, gender and farming: findings from southeastern Australia. The Conference of the International Society for Environmental Epidemiology and International Society of Exposure Science-Asia Chapter 2018 (ISEE/ES-AC) Taipei, Taiwan, 2018.

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Peer reviewing
 ---
 
-## Journal papers reviewed
+## Peer reviewing
+
+### Journal papers reviewed
 
 1. 2024: The Lancet regional health.
 1. 2023: The Lancet.
@@ -19,10 +20,10 @@ title: Peer reviewing
 1. BMC Public Health, 2012 - (blind review - advised rejection).
 1. Crisis: The Journal of Crisis Intervention and Suicide Prevention, 2012 (blind review - advised rejection).
 
-## Reports reviewed
+### Reports reviewed
 
 1. Australian Institute of Health and Welfare, 2016 (confidential review of draft report).
 
-## Open source software reviewed
+### Open source software reviewed
 
 1. Sparks AH (2017) getCRUCLdata R package (invited review for rOpenSci) https://github.com/ropensci/onboarding/issues/96#issuecomment-281212614 

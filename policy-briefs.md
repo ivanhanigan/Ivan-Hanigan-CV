@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Policy briefs
 ---
+
+## Policy briefs
+
 
 - Bambrick, H., Woodruff, R., & Hanigan, I. (2010). Effective emissions targets needed to protect Australia’s blood supply. The Australia Institute Policy Brief No. 11.
 - Drought Policy Review Expert Social Panel 2008, It’s About People: Changing Perspective. A Report to Government by an Expert Social Panel on Dryness Report to the Minister for Agriculture, Fisheries and Forestry, Canberra, September. ISBN 978-0-9803714-7-5 (also known as the Kenny Report)

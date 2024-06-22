@@ -1,23 +1,27 @@
 ---
 layout: default
-title: Teaching and supervision
 ---
+
+## Teaching and supervision
 
 I deliver courses, develop educational materials and supervise research scholars.
 
 I offer teaching and supervision for undergraduate and postgraduate students. I also prepare training materials for HIA and organise HIA training events.
 
-## Teaching
+### Teaching
 
 - Teaching for the following School of Population Health Units
-    - PUBH3007 Climate Change, Health and Big Data, third year
-    - ENHL6000 Health Impact Assessment, Postgraduate
-    - OCHS5003 Risk Management and Safety Technology, Postgraduate
+    +	PUBH3007 Climate Change, Health and Big Data, third year. Final unit in Health Science Data Specialisation Stream.
+    +	ENHL6000 Health Impact Assessment, Postgraduate. Accredited under the Environmental Health Officer programme.
+    +	OCHS5003 Risk Management and Safety Technology, Postgraduate. Accredited under the Occupational Health and Safety Programme.
+
         
-## Higher Degree Research
+### Higher Degree Research
 
-### PhD Supervision
+#### PhD Supervision
 
+
+- 2023 (Forthcoming): I will be primary supervisor for Constanze Meier. Evidence-based tools for climate change health impact assessments that enable low- and middle-income countries meet the sustainable development agenda. 
 - 2023 (Started): I co-supervise Albaraa Milibari (Curtin University) 
 - 2022 (Completed): Heather Stevens (Macquarie University). PhD thesis title was "Associations between temperature and interpersonal violence". PhD thesis is now available via [https://doi.org/10.25949/23282423.v1](https://doi.org/10.25949/23282423.v1)
 
@@ -26,11 +30,12 @@ I offer teaching and supervision for undergraduate and postgraduate students. I 
 - 2023 (Completed). Alec Cobbold, Supervisory panel: Christopher Rissel, Ivan Hanigan, Melanie Crane. Thesis title: Health behaviours and environmental perceptions during the COVID-19 pandemic.
 
 
-### Postdoctoral research fellowships
+#### Postdoctoral research fellows
 
+- Dr Lucas Hertzog
 - Primary Supervision of CSIRO/Data61 data science fellowship (Dr Imaina Widagdo, a student in this postdoctoral professional development program for Department of Health Staff: June and July 2017.
 
-## Other teaching activities
+### Other teaching activities
 
 - I teach environmental health methods and statistics at the University of Sydney in the Environmental Epidemiology unit for the Masters of Public Health/Global Health. I have assisted tutorials and marking the Masters course over 5 years.
 - In 2020 I organised and led a HIA workshop on air pollution HIA for CAR attended by representatives from research and government agencies. I am leading the planning of a follow up workshop in late 2021 that will include hands on training with HIA tools.
