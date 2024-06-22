@@ -12,8 +12,8 @@ I have also published a 3 of industry and government reports. My Category Normal
 
 ### Papers 
 
-1. * L. Hertzog et al., … **Hanigan**, I.C. “Suicide Deaths Associated with Climate Change-Induced Heat Anomalies in Australia: A Time-Series Regression Analysis”, BMJ Mental Health (Accepted).
-1. * L. Hertzog et al., … **Hanigan**, I.C. “Mortality burden attributable to exceptional PM2.5 air pollution events in Australian cities: A health impact assessment,” Heliyon, vol. 10, no. 2, Jan. 2024, doi: 10.1016/j.heliyon.2024.e24532.
+1. L. Hertzog et al., … **Hanigan**, I.C. “Suicide Deaths Associated with Climate Change-Induced Heat Anomalies in Australia: A Time-Series Regression Analysis”, BMJ Mental Health (Accepted).
+1. L. Hertzog et al., … **Hanigan**, I.C. “Mortality burden attributable to exceptional PM2.5 air pollution events in Australian cities: A health impact assessment,” Heliyon, vol. 10, no. 2, Jan. 2024, doi: 10.1016/j.heliyon.2024.e24532.
 1. Sowden, M.; **Hanigan**, I.C.; Robbins, D.J.V.; Cope, M.; Silver, J.D.; Noonan, J. Characterizing Smoke Haze Events in Australia Using a Hybrid Approach of Satellite-Based Aerosol Optical Depth and Chemical Transport Model. Remote Sens. 2024, 15.
 1. Beggs, P. J., Trueck, S., Linnenluecke, M. K., Bambrick, H., Capon, A. G., **Hanigan**, I. C., Arriagada, N. B., Cross, T. J., Friel, S., Green, D., Heenan, M., Jay, O., Kennard, H., Malik, A., McMichael, C., Stevenson, M., Vardoulakis, S., Dang, T. N., Garvey, G., Lovett, R., Matthews, V., Phung, D., Woodward, A. J., Romanello, M. B., Zhang, Y. (2024). The 2023 report of the  MJA  – Lancet Countdown on health and climate change: Sustainability needed in Australia’s health care sector. Medical Journal of Australia, mja2.52245. https://doi.org/10.5694/mja2.52245
 1. Nicolas Borchers-Arriagada, Stephen Vander Hoorn, Martin Cope, Geoffrey Morgan, Ivan **Hanigan**, Grant Williamson, Fay H. Johnston. (2024). The mortality burden attributable to wood heater smoke particulate matter (PM2.5) in Australia, Science of The Total Environment, Volume 921, https://doi.org/10.1016/j.scitotenv.2024.171069.
