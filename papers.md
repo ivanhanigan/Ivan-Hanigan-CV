@@ -6,8 +6,8 @@ layout: default
 
 ### Summary
 
-My work has generated valuable and impactful research paper outputs. In the last 5 years I have of published 32 peer reviewed publications, 8  of which publications I have been first or last author.
-I have also published a 3 of industry and government reports. My Category Normalised Citation Impact (CNCI) for top 5 papers by CNCI in last 3 years is 1.47 indicating a higher than average impact factor. Recently I have published a book chapter on Climate Change and Health that is In Press and importantly will be vital required reading prescribed to the undergraduate and postgraduate students I teach on that topic.
+My work has generated valuable and impactful research paper outputs. In the last 5 years I have published 39 peer reviewed publications (9 as first or senior author).   
+I have also published three major industry and government reports. My Category Normalised Citation Impact (CNCI) for top 5 papers by CNCI in last 3 years is 1.47 indicating a higher than average impact factor. Recently I have published a book chapter on Climate Change and Health that is required reading prescribed to the undergraduate and postgraduate students I teach on that topic.
 
 
 ### Papers 
