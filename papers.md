@@ -12,6 +12,8 @@ I have also published three major industry and government reports. My Category N
 
 ### Papers 
 
+1. Borchers-Arriagada, et al., ... **Hanigan**, I.C. 2024. "Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model" Atmosphere 15, no. 11: 1341. https://doi.org/10.3390/atmos15111341
+1. Butler, C.D., et al. (2024) “The Lancet Countdown on health and climate change: competing interests and optimism bias [Letter]”. The Lancet. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01491-0/fulltext
 1. Gebremedhin, A.T., Nyadanu, S.D., Hanigan, I.C., Pereira, G. Maternal exposure to bioclimatic stress and hypertensive disorders of pregnancy in Western Australia: identifying potential critical windows of susceptibility. Environ Sci Pollut Res, (2024), doi: 10.1007/s11356-024-34689-6.
 1. Hertzog, L., et al., … **Hanigan**, I.C. Suicide Deaths Associated with Climate Change-Induced Heat Anomalies in Australia: A Time-Series Regression Analysis, BMJ Mental Health, 27(1):e301131, (2024), doi: 10.1136/bmjment-2024-301131.
 1. Hertzog, L., et al., … **Hanigan**, I.C. Mortality burden attributable to exceptional PM2.5 air pollution events in Australian cities: A health impact assessment, Heliyon, vol. 10, no. 2, (2024), doi: 10.1016/j.heliyon.2024.e24532.
