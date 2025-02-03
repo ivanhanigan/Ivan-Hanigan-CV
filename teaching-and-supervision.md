@@ -25,7 +25,7 @@ I am Unit Coordinator for the following School of Population Health Units:
 
 #### PhD Supervision
 
--       2024: I am primary supervisor for Constanze Meier. Evidence-based tools for climate change health impact assessments that enable low- and middle-income countries meet the sustainable development agenda.
+- 2024: I am primary supervisor for Constanze Meier. Evidence-based tools for climate change health impact assessments that enable low- and middle-income countries meet the sustainable development agenda.
 -	2023: I co-supervise Albaraa Milibari (Curtin University). PhD title “Air pollution health impact in Mecca, Saudi Arabia”.
 -	2022 (Completed): Heather Stevens (Macquarie University). PhD title was “Associations between temperature and interpersonal violence”. PhD thesis is now available via https://doi.org/10.25949/23282423.v1 
 
