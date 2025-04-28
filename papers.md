@@ -6,12 +6,14 @@ layout: default
 
 ### Summary
 
-My work has generated valuable and impactful research paper outputs. In the last 5 years I have published 40 peer reviewed publications (10 as first or senior author).   
+My work has generated valuable and impactful research paper outputs. In the last 6 years I have published 43 peer reviewed publications (11 as first or senior author).   
 I have also published three major industry and government reports. My Category Normalised Citation Impact (CNCI) for top 5 papers by CNCI in last 3 years is 1.47 indicating a higher than average impact factor. Recently I have published a book chapter on Climate Change and Health that is required reading prescribed to the undergraduate and postgraduate students I teach on that topic.
 
 
 ### Papers 
 
+1. **I. Hanigan**, et al. (2025) "Deep ensemble machine learning with Bayesian blending improved accuracy and precision of modelled ground-level ozone for region with sparse monitoring: Australia, 2005–2018", Environmental Modelling & Software, 187, p. 106378. doi: 10.1016/j.envsoft.2025.106378.
+1. P. Beggs, et al. (2025) ‘The 2024 report of the  MJA  – Lancet Countdown on health and climate change: Australia emerging as a hotspot for litigation’, Medical Journal of Australia, 222(6), pp. 272–296. Available at: https://doi.org/10.5694/mja2.52616.
 1. Borchers-Arriagada, et al., ... **Hanigan**, I.C. 2024. "Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model" Atmosphere 15, no. 11: 1341. https://doi.org/10.3390/atmos15111341
 1. Butler, C.D., et al. (2024) “The Lancet Countdown on health and climate change: competing interests and optimism bias [Letter]”. The Lancet. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01491-0/fulltext
 1. Gebremedhin, A.T., Nyadanu, S.D., Hanigan, I.C., Pereira, G. Maternal exposure to bioclimatic stress and hypertensive disorders of pregnancy in Western Australia: identifying potential critical windows of susceptibility. Environ Sci Pollut Res, (2024), doi: 10.1007/s11356-024-34689-6.
