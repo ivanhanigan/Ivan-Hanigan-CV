@@ -28,6 +28,10 @@ Here are a few of the photos.
 ![the-whole-guitar-front](https://lh3.googleusercontent.com/d/1OW4mjoZYP1aO8V8x3roznWRigIZSNSSx)
 
 <p></p>
+
+![the-headstock](https://lh3.googleusercontent.com/d/1aGrL0E9iGCuypuPW9_jQfZ0FYkVaL9fp)
+
+<p></p>
 <!-- the setup -->
 
 Here is a short video of me testing out the better sound recording option (a Sony Minidisc recorder).
