@@ -21,9 +21,11 @@ In this video I set up the context of the repair work, and point out some of the
   </iframe>
 </div>
 
+<p></p>
+
 Here are a few of the photos.
 
-![the-whole-guitar-front](https://drive.google.com/uc?export=view&id=1OW4mjoZYP1aO8V8x3roznWRigIZSNSSx)
+![the-whole-guitar-front](https://lh3.googleusercontent.com/d/1OW4mjoZYP1aO8V8x3roznWRigIZSNSSx)
 
 <p></p>
 <!-- the setup -->
