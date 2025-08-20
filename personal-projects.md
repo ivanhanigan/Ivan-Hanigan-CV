@@ -7,6 +7,8 @@ title: Personal Projects
 
 ### chapter-00-the-before-shots
 
+In this video I set up the context of the repair work, and point out some of the dings and scratches that I'll take close up photos of.
+
 <!-- https://drive.google.com/file/d/1wvK0TLvubgrci62K0cK7b3YBUXF3YLeJ/view?usp=sharing -->
 
 <div class="video-container">
@@ -19,8 +21,14 @@ title: Personal Projects
   </iframe>
 </div>
 
+Here are a few of the photos.
 
+![the-whole-guitar-front](https://drive.google.com/uc?export=view&id=1OW4mjoZYP1aO8V8x3roznWRigIZSNSSx)
+
+<p></p>
 <!-- the setup -->
+
+Here is a short video of me testing out the better sound recording option (a Sony Minidisc recorder).
 
 <div class="video-container">
   <iframe 
