@@ -46,3 +46,6 @@ Here is a short video of me testing out the better sound recording option (a Son
   </iframe>
 </div>
 
+The repair work has been completed and many awesome photos were taken.  This is the neck and dowell stick seperated from the body.
+
+![the-neck-and-dowell-stick](https://lh3.googleusercontent.com/d/1MJr1bjKXzxusE_5M2_Tl420R0a4yxrHY)
