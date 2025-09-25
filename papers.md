@@ -12,7 +12,10 @@ I have also published three major industry and government reports. My Category N
 
 ### Papers 
 
-1. **I. Hanigan**, et al. (2025) "Deep ensemble machine learning with Bayesian blending improved accuracy and precision of modelled ground-level ozone for region with sparse monitoring: Australia, 2005–2018", Environmental Modelling & Software, 187, p. 106378. doi: 10.1016/j.envsoft.2025.106378.
+1. P. Somboonsin, J. Thanyapraneedkul, **I. C. Hanigan**, and V. Canudas-Romo, ‘The burden of air pollution (PM2.5) in subnational Australian life expectancy’, Environmental Research, vol. 285, p. 122690, Nov. 2025, doi:  https://doi.org/10.1016/j.envres.2025.122690.
+1. L. Hertzog et al., … **Hanigan**. ‘Extreme drought and sexual violence against adolescent girls and young women: A multi-country population-based study’, PLOS Glob Public Health, vol. 5, no. 6, p. e0004752, June 2025, doi:  https://doi.org/10.1371/journal.pgph.0004752.
+1. J. Tripovich, K. Gopi, G. Morgan, **I. Hanigan**, F. Johnston, P. McGreevy and A. Quain. (2025) ‘Feeling the heat: associations among daily ambient temperatures, extreme heat days and risk mortality in Australian dogs from New South Wales (1997–2017)’, Australian Veterinary Journal, p. avj.13468.doi:  https://doi.org/10.1111/avj.13468.
+1. **I. Hanigan**, et al. (2025) "Deep ensemble machine learning with Bayesian blending improved accuracy and precision of modelled ground-level ozone for region with sparse monitoring: Australia, 2005–2018", Environmental Modelling & Software, 187, p. 106378. doi:  https://doi.org/10.1016/j.envsoft.2025.106378.
 1. P. Beggs, et al. (2025) ‘The 2024 report of the  MJA  – Lancet Countdown on health and climate change: Australia emerging as a hotspot for litigation’, Medical Journal of Australia, 222(6), pp. 272–296. Available at: https://doi.org/10.5694/mja2.52616.
 1. Borchers-Arriagada, et al., ... **Hanigan**, I.C. 2024. "Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model" Atmosphere 15, no. 11: 1341. https://doi.org/10.3390/atmos15111341
 1. Butler, C.D., et al. (2024) “The Lancet Countdown on health and climate change: competing interests and optimism bias [Letter]”. The Lancet. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01491-0/fulltext
