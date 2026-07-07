@@ -1,11 +1,11 @@
 library(bookdown)
 library(data.table)
-worddoc <- F
+worddoc <- T
 
 
 ## NB only one can be true
 cv <- F
-short <- F
+short <- T
 portfolio <- T
 #### CV ####
 if(cv == TRUE){
@@ -61,7 +61,7 @@ txt[['Capacity building training '  ]] <- read.table('capacity-building-training
  
 txt[['Engagement '  ]] <- read.table('engagement.md', sep = '\n', comment.char = "")
 txt[['Media '  ]] <- read.table('media.md', sep = '\n', comment.char = "")
-txt[['Policy briefs '  ]] <- read.table('policy-briefs.md', sep = '\n', comment.char = "")
+#txt[['Policy briefs '  ]] <- read.table('policy-briefs.md', sep = '\n', comment.char = "")
 txt[['Briefing for government officials']] <- read.table('briefing-for-government-officials.md', sep = '\n', comment.char = "")
 txt[['Peer reviewing '  ]] <- read.table('peer-reviewing.md', sep = '\n', comment.char = "")
 txt[['Professional societies '  ]] <- read.table('professional-societies.md', sep = '\n', comment.char = "")
