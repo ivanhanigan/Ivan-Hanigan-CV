@@ -1,6 +1,6 @@
 library(bookdown)
 library(data.table)
-worddoc <- T
+worddoc <- F
 
 
 ## NB only one can be true
