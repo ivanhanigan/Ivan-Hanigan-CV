@@ -6,7 +6,7 @@ worddoc <- F
 ## NB only one can be true
 cv <- F
 short <- T
-portfolio <- T
+portfolio <- F
 #### CV ####
 if(cv == TRUE){
 txt <- list()
