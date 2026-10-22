@@ -6,14 +6,16 @@ layout: default
 
 ### Summary
 
-My work has generated valuable and impactful research paper outputs. In the last 6 years I have published 43 peer reviewed publications (11 as first or senior author).   
+My work has generated valuable and impactful research paper outputs. In the last 6 years I have published 44 peer reviewed publications (11 as first or senior author).   
 I have also published three major industry and government reports. My Category Normalised Citation Impact (CNCI) for top 5 papers by CNCI in last 3 years is 1.47 indicating a higher than average impact factor. Recently I have published a book chapter on Climate Change and Health that is required reading prescribed to the undergraduate and postgraduate students I teach on that topic.
 
 
 ### Papers 
 
+1.	K. A. Atalell, G. Pereira, S. D. Nyadanu, B. Duko, I. C. Hanigan, and G. A. Tessema, ‘Exposure to low-level fine particulate matter air pollution and developmental vulnerability at school entry: A population-based cohort study in Western Australia’, Environmental Research, vol. 307, p. 125493, Oct. 2026, doi: 10.1016/j.envres.2026.125493.
 1. Cowie, C.T., **Hanigan, I.C.**, Yu, W., Yuen, C., Gopi, K., Morgan, G.G., Borchers-Arriagada, N., Heyworth, J., Cope, M., Morawska, L., Jalaludin, B., Marks, G.B., Guo, Y. and Knibbs, L.D. (2026) ‘Comparison of High Spatial Resolution PM2.5 , PM10 , and NO2 Estimates Using a Deep Ensemble Machine Learning Framework in a Low Pollution Setting’, Environmental Science & Technology, p. acs.est.6c02076. Available at: https://doi.org/10.1021/acs.est.6c02076.
 1. Gopi K, Shao J, Morgan G.G, Yuen C, Borchers-Arriagad N, Van Buskirk J, Jegasothy E, **Hanigan I.C.**. Continental-scale machine learning classification of fire smoke pollution events for health research in Australia, 2001-2020. In MODSIM 2025, 27th International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, Nov 2025, Forthcoming (preprint available at: https://doi.org/10.17605/OSF.IO/AVFNG)
+1. Milibari, A.A., Hanigan, I.C., Badri, H.M., Khan, W.A., Gadah, E.M. and Rumchev, K. (2026) ‘The impact of air pollution on paediatric hospital admissions for acute lower respiratory infections (ALRI) in Makkah, Saudi Arabia, during Hajj events’, Journal of the Air & Waste Management Association, pp. 1–12. Available at: https://doi.org/10.1080/10962247.2026.2694481.
 1. A. A. Milibari, **I. C. Hanigan**, H. M. Badri, W. A. Khan, and K. Rumchev, ‘The impact of air pollution on cardiovascular and respiratory mortality in makkah, Saudi Arabia, during the Hajj cultural events and COVID-19 outbreak’, Air Qual Atmos Health, Oct. 2025, doi: 10.1007/s11869-025-01816-2.
 1.	Milibari, A.A., Hanigan, I.C., Badri, H.M., Khan, W.A. and Rumchev, K. (2025) ‘Associations Between Air Pollution and Hospital Admissions for Cardiovascular and Respiratory Diseases in Makkah, Saudi Arabia, During the Hajj Cultural Events and the COVID-19 Outbreak’, Atmosphere, 16(10), p. 1220. Available at: https://doi.org/10.3390/atmos16101220.
 1. T. B. Chaston et al., ‘Health benefits of traffic emissions controls in melbourne, Australia’, Environmental Research, vol. 287, p. 123122, Dec. 2025, doi: 10.1016/j.envres.2025.123122.
