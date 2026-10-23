@@ -1,19 +1,21 @@
 library(bookdown)
 library(data.table)
-worddoc <- F
-
+worddoc <- T
+showme <- F
 
 ## NB only one can be true
 cv <- F
-short <- T
-portfolio <- F
+short <- F
+portfolio <- T
 #### CV ####
 if(cv == TRUE){
 txt <- list()
 txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
 txt[['Professional training and qualifications']] <- read.table('professional-training-and-qualifications.md', sep = '\n', comment.char = "")
+txt[['International collaborations']] <- read.table('international-collaborations.md', sep = '\n', comment.char = "")
 txt[['Awards']] <- read.table('awards.md', sep = '\n', comment.char = "")
 txt[['Papers']] <- read.table('papers.md', sep = '\n', comment.char = "")
+txt[['Selected Papers']] <- read.table('papers-selected-top10in10.md', sep = '\n', comment.char = "")
 txt[['Book chapters']] <- read.table('book-chapters.md', sep = '\n', comment.char = "")
 txt[['Reports']] <- read.table('reports.md', sep = '\n', comment.char = "")
 txt[['Research grants']] <- read.table('research-grants.md', sep = '\n', comment.char = "")
@@ -26,6 +28,7 @@ if(short){
   txt <- list()
   txt[['Education and employment']] <- read.table('education-and-employment.md', sep = '\n', comment.char = "")
   txt[['Selected publications']] <- read.table('papers-selected.md', sep = '\n', comment.char = "")
+  txt[['International collaborations']] <- read.table('international-collaborations.md', sep = '\n', comment.char = "")
   txt[['Grants summary']] <- read.table('research-grants-selected.md', sep = '\n', comment.char = "")
 }
 #### portfolio ####
@@ -46,6 +49,7 @@ txt[['Awards '  ]] <- read.table('awards.md', sep = '\n', comment.char = "")
 
 txt[["Research"  ]] <- read.table('research.md', sep = '\n', comment.char = "")
 txt[['Papers '  ]] <- read.table('papers.md', sep = '\n', comment.char = "")
+txt[['Selected Papers']] <- read.table('papers-selected-top10in10.md', sep = '\n', comment.char = "")
 txt[['Book Chapters '  ]] <- read.table('book-chapters.md', sep = '\n', comment.char = "")
 txt[['Reports '  ]] <- read.table('reports.md', sep = '\n', comment.char = "")
 txt[['Research grants '  ]] <- read.table('research-grants.md', sep = '\n', comment.char = "")
@@ -121,6 +125,6 @@ if(worddoc){
   setwd("R")
   render_book("Ivan-Hanigan-CV.Rmd", bookdown::html_document2(toc=TRUE))
   setwd("..")
-  browseURL("R/_main.html")
+  if(showme) browseURL("R/_main.html")
 }
 getwd()

@@ -18,12 +18,12 @@ title: Papers selected
 
 ## Explanation
 1. Chapter in an Edward Elgar impact assessment series designed to give definitive overviews that set a field’s direction for 10-15 years; prescribed reading in Curtin undergraduate and postgraduate units. First author.
-2. Filled an Australian evidence gap: prospective cohort survival analysis of all-cause mortality and long-term low-level PM2.5 and NO2 exposure; the only published study to date in the general population. First author.
-3. First national estimate of mortality attributable under elimination of anthropogenic PM2.5; drives the emissions-reduction policy agenda. First author of a 16-author national collaboration.
-4. First Australian assessment of national short-term mortality from exceptional smoke events; informs bushfire smoke health warning systems and hazard reduction burning policy. Senior author.
+2. Fills an Australian evidence gap: prospective cohort survival analysis of all-cause mortality and long-term low-level PM2.5 and NO2 exposure; the only published study to date in the general population. First author.
+3. First national estimate of the mortality avoidable if anthropogenic PM2.5 were eliminated; drives the emissions-reduction policy agenda. First author of a 16-author national collaboration.
+4. First Australian multi-city assessment of short-term mortality from exceptional smoke events; relevant to bushfire smoke health warning systems and hazard reduction burning policy. Senior author.
 5. Commissioned by the Australian Government to inform the legislative review of national non-road diesel import restrictions. Co-author.
-6. Improves the accuracy and precision of ground-level ozone exposure estimates in a region with sparse monitoring, using deep ensemble machine learning with Bayesian blending demonstrating the use of AI in novel health research. First author.
+6. Improves the accuracy and precision of ground-level ozone exposure estimates in a region with sparse monitoring; demonstrates the use of AI (deep ensemble machine learning with Bayesian blending) in novel health research. First author.
 7. One of the world’s first climate change impact assessments of suicide mortality under future droughts. First author.
 8. One of the world’s first multi-country population-based studies linking drought to sexual violence against adolescent girls and young women. Senior author.
 9. Quantifies suicide deaths associated with climate change-induced heat anomalies in Australia, in a leading psychiatry journal. Senior author.
-10. Annual national indicator report that I am responsible for the drought and PM2.5 indicators, into national climate-health reporting.
+10. Annual national indicator report that brings drought and PM2.5 into national climate-health reporting. Lead for both indicators.
